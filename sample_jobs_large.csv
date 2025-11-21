@@ -1,0 +1,1501 @@
+Job Title,Company Name,Location,Experience,Salary
+Business Analyst,ABC Tech,Delhi,3-5 years,₹15-20 LPA
+Java Developer,Visionary Apps,Bangalore,7-10 years,₹20-30 LPA
+UI/UX Designer,CloudWorks,Mumbai,3-5 years,₹3-5 LPA
+Full Stack Developer,Bright Future Pvt Ltd,Pune,7-10 years,₹8-12 LPA
+Machine Learning Engineer,NeuralNet Systems,Chennai,0-1 years,₹15-20 LPA
+React Developer,XYZ Analytics,Mumbai,1-2 years,₹8-12 LPA
+UI/UX Designer,DataSoft,Mumbai,3-5 years,₹5-8 LPA
+Project Manager,Innova Labs,Delhi,2-4 years,₹3-5 LPA
+Business Analyst,AlgoGenie,Mumbai,1-2 years,₹8-12 LPA
+Machine Learning Engineer,TechCorp,Chennai,3-5 years,₹8-12 LPA
+Software Tester,XYZ Analytics,Remote,5-7 years,₹5-8 LPA
+Backend Engineer,NextGen AI,Pune,4-6 years,₹10-15 LPA
+Frontend Developer,TechVerse,Mumbai,4-6 years,₹6-10 LPA
+Backend Engineer,Innova Labs,Mumbai,2-4 years,₹6-10 LPA
+Cloud Architect,DataSoft,Mumbai,4-6 years,₹10-15 LPA
+Backend Engineer,TechCorp,Hyderabad,0-1 years,₹15-20 LPA
+Backend Engineer,NextGen AI,Bangalore,7-10 years,₹6-10 LPA
+Data Scientist,NeuralNet Systems,Pune,7-10 years,₹15-20 LPA
+Business Analyst,CloudWorks,Mumbai,1-2 years,₹3-5 LPA
+Software Tester,Visionary Apps,Bangalore,1-2 years,₹6-10 LPA
+Data Scientist,TechCorp,Remote,4-6 years,₹8-12 LPA
+Project Manager,TechCorp,Remote,5-7 years,₹5-8 LPA
+Business Analyst,CodeCrafters,Mumbai,4-6 years,₹8-12 LPA
+Business Analyst,DataSoft,Hyderabad,5-7 years,₹20-30 LPA
+AI Engineer,Reactify,Chennai,0-1 years,₹15-20 LPA
+Python Developer,Reactify,Hyderabad,0-1 years,₹20-30 LPA
+Project Manager,CloudWorks,Pune,2-4 years,₹5-8 LPA
+Java Developer,DataSoft,Remote,0-1 years,₹15-20 LPA
+Business Analyst,NeuralNet Systems,Bangalore,5-7 years,₹6-10 LPA
+Cloud Architect,TechCorp,Delhi,0-1 years,₹20-30 LPA
+Software Tester,Bright Future Pvt Ltd,Bangalore,0-1 years,₹6-10 LPA
+Frontend Developer,CodeCrafters,Pune,7-10 years,₹8-12 LPA
+Python Developer,CodeCrafters,Delhi,2-4 years,₹8-12 LPA
+Data Analyst,CloudWorks,Hyderabad,0-1 years,₹4-6 LPA
+React Developer,Bright Future Pvt Ltd,Pune,7-10 years,₹10-15 LPA
+Project Manager,CodeCrafters,Remote,1-2 years,₹20-30 LPA
+UI/UX Designer,Visionary Apps,Pune,7-10 years,₹10-15 LPA
+Backend Engineer,TechVerse,Hyderabad,2-4 years,₹3-5 LPA
+Data Analyst,CloudWorks,Bangalore,0-1 years,₹15-20 LPA
+Software Tester,NeuralNet Systems,Delhi,4-6 years,₹20-30 LPA
+UI/UX Designer,TechVerse,Hyderabad,7-10 years,₹3-5 LPA
+AI Engineer,TechVerse,Bangalore,3-5 years,₹6-10 LPA
+React Developer,CloudWorks,Hyderabad,1-2 years,₹15-20 LPA
+AI Engineer,Innova Labs,Hyderabad,4-6 years,₹20-30 LPA
+Cloud Architect,AlgoGenie,Pune,4-6 years,₹4-6 LPA
+Machine Learning Engineer,TechCorp,Remote,0-1 years,₹5-8 LPA
+Machine Learning Engineer,TechCorp,Chennai,2-4 years,₹20-30 LPA
+Data Analyst,Innova Labs,Mumbai,0-1 years,₹20-30 LPA
+Java Developer,TechCorp,Chennai,0-1 years,₹6-10 LPA
+Data Analyst,DataSoft,Pune,5-7 years,₹15-20 LPA
+React Developer,NeuralNet Systems,Chennai,2-4 years,₹10-15 LPA
+Business Analyst,XYZ Analytics,Remote,7-10 years,₹10-15 LPA
+Data Scientist,DataSoft,Bangalore,3-5 years,₹3-5 LPA
+Data Analyst,XYZ Analytics,Bangalore,4-6 years,₹5-8 LPA
+Java Developer,AlgoGenie,Hyderabad,0-1 years,₹6-10 LPA
+Business Analyst,TechCorp,Delhi,7-10 years,₹10-15 LPA
+React Developer,DataSoft,Delhi,5-7 years,₹3-5 LPA
+DevOps Engineer,Bright Future Pvt Ltd,Chennai,2-4 years,₹5-8 LPA
+Cloud Architect,AlgoGenie,Bangalore,5-7 years,₹15-20 LPA
+Cloud Architect,Bright Future Pvt Ltd,Delhi,2-4 years,₹5-8 LPA
+Data Scientist,TechCorp,Bangalore,3-5 years,₹3-5 LPA
+Python Developer,Visionary Apps,Hyderabad,4-6 years,₹5-8 LPA
+React Developer,CloudWorks,Mumbai,3-5 years,₹6-10 LPA
+Python Developer,NeuralNet Systems,Mumbai,4-6 years,₹6-10 LPA
+DevOps Engineer,ABC Tech,Hyderabad,4-6 years,₹10-15 LPA
+Java Developer,Visionary Apps,Chennai,3-5 years,₹6-10 LPA
+Data Scientist,XYZ Analytics,Delhi,3-5 years,₹6-10 LPA
+Java Developer,Innova Labs,Mumbai,2-4 years,₹6-10 LPA
+Data Scientist,AlgoGenie,Delhi,1-2 years,₹20-30 LPA
+UI/UX Designer,TechVerse,Pune,3-5 years,₹3-5 LPA
+Cloud Architect,NeuralNet Systems,Remote,4-6 years,₹5-8 LPA
+Python Developer,TechCorp,Chennai,3-5 years,₹15-20 LPA
+AI Engineer,CloudWorks,Delhi,0-1 years,₹5-8 LPA
+React Developer,TechCorp,Bangalore,7-10 years,₹10-15 LPA
+Project Manager,CloudWorks,Delhi,3-5 years,₹5-8 LPA
+Data Scientist,CloudWorks,Remote,0-1 years,₹6-10 LPA
+Machine Learning Engineer,DataSoft,Chennai,0-1 years,₹3-5 LPA
+Data Scientist,Web Solutions,Bangalore,3-5 years,₹6-10 LPA
+Cloud Architect,NeuralNet Systems,Remote,1-2 years,₹6-10 LPA
+Frontend Developer,DataSoft,Pune,4-6 years,₹15-20 LPA
+Backend Engineer,Innova Labs,Delhi,3-5 years,₹6-10 LPA
+Data Analyst,CodeCrafters,Hyderabad,5-7 years,₹15-20 LPA
+Project Manager,Reactify,Mumbai,5-7 years,₹6-10 LPA
+AI Engineer,NextGen AI,Delhi,5-7 years,₹4-6 LPA
+Cloud Architect,XYZ Analytics,Pune,3-5 years,₹20-30 LPA
+Full Stack Developer,ABC Tech,Delhi,3-5 years,₹10-15 LPA
+Java Developer,TechCorp,Hyderabad,1-2 years,₹6-10 LPA
+React Developer,CloudWorks,Remote,1-2 years,₹10-15 LPA
+Data Analyst,TechVerse,Chennai,3-5 years,₹10-15 LPA
+Cloud Architect,TechVerse,Pune,4-6 years,₹15-20 LPA
+Software Tester,NeuralNet Systems,Pune,5-7 years,₹10-15 LPA
+Data Analyst,AlgoGenie,Hyderabad,2-4 years,₹10-15 LPA
+Full Stack Developer,CodeCrafters,Remote,5-7 years,₹15-20 LPA
+Data Scientist,DataSoft,Pune,5-7 years,₹15-20 LPA
+DevOps Engineer,ABC Tech,Pune,5-7 years,₹8-12 LPA
+Backend Engineer,DataSoft,Delhi,1-2 years,₹6-10 LPA
+Project Manager,CloudWorks,Bangalore,2-4 years,₹8-12 LPA
+AI Engineer,NeuralNet Systems,Delhi,0-1 years,₹15-20 LPA
+Data Scientist,Bright Future Pvt Ltd,Remote,0-1 years,₹10-15 LPA
+Java Developer,Visionary Apps,Hyderabad,3-5 years,₹20-30 LPA
+Backend Engineer,Web Solutions,Pune,4-6 years,₹10-15 LPA
+Machine Learning Engineer,Bright Future Pvt Ltd,Mumbai,7-10 years,₹4-6 LPA
+Python Developer,ABC Tech,Chennai,5-7 years,₹10-15 LPA
+Data Scientist,Visionary Apps,Chennai,0-1 years,₹8-12 LPA
+DevOps Engineer,Web Solutions,Pune,7-10 years,₹8-12 LPA
+React Developer,AlgoGenie,Pune,5-7 years,₹8-12 LPA
+Cloud Architect,NextGen AI,Pune,3-5 years,₹3-5 LPA
+Business Analyst,CloudWorks,Hyderabad,7-10 years,₹4-6 LPA
+React Developer,TechVerse,Chennai,5-7 years,₹3-5 LPA
+Project Manager,Bright Future Pvt Ltd,Pune,0-1 years,₹6-10 LPA
+Data Analyst,Reactify,Bangalore,3-5 years,₹15-20 LPA
+Data Scientist,CloudWorks,Mumbai,0-1 years,₹3-5 LPA
+Python Developer,DataSoft,Bangalore,3-5 years,₹8-12 LPA
+UI/UX Designer,Reactify,Delhi,3-5 years,₹8-12 LPA
+UI/UX Designer,TechVerse,Bangalore,7-10 years,₹20-30 LPA
+React Developer,AlgoGenie,Remote,7-10 years,₹20-30 LPA
+Machine Learning Engineer,XYZ Analytics,Remote,3-5 years,₹10-15 LPA
+Frontend Developer,DataSoft,Bangalore,1-2 years,₹20-30 LPA
+Frontend Developer,TechVerse,Remote,7-10 years,₹20-30 LPA
+Machine Learning Engineer,DataSoft,Delhi,3-5 years,₹15-20 LPA
+React Developer,XYZ Analytics,Bangalore,3-5 years,₹15-20 LPA
+Data Analyst,Visionary Apps,Hyderabad,5-7 years,₹15-20 LPA
+React Developer,Visionary Apps,Bangalore,7-10 years,₹10-15 LPA
+Business Analyst,Reactify,Mumbai,2-4 years,₹10-15 LPA
+Frontend Developer,Reactify,Bangalore,0-1 years,₹3-5 LPA
+Python Developer,Visionary Apps,Bangalore,1-2 years,₹20-30 LPA
+Cloud Architect,Innova Labs,Chennai,7-10 years,₹10-15 LPA
+React Developer,CodeCrafters,Delhi,2-4 years,₹15-20 LPA
+Python Developer,Innova Labs,Chennai,3-5 years,₹5-8 LPA
+UI/UX Designer,CodeCrafters,Bangalore,3-5 years,₹10-15 LPA
+AI Engineer,TechCorp,Mumbai,5-7 years,₹10-15 LPA
+Backend Engineer,Visionary Apps,Chennai,5-7 years,₹20-30 LPA
+Python Developer,TechCorp,Delhi,4-6 years,₹8-12 LPA
+Machine Learning Engineer,CodeCrafters,Bangalore,2-4 years,₹3-5 LPA
+Project Manager,CodeCrafters,Hyderabad,7-10 years,₹3-5 LPA
+AI Engineer,Web Solutions,Remote,5-7 years,₹4-6 LPA
+Backend Engineer,Reactify,Mumbai,0-1 years,₹4-6 LPA
+Software Tester,Innova Labs,Hyderabad,0-1 years,₹8-12 LPA
+Full Stack Developer,DataSoft,Chennai,2-4 years,₹8-12 LPA
+DevOps Engineer,NextGen AI,Bangalore,2-4 years,₹5-8 LPA
+DevOps Engineer,Visionary Apps,Chennai,0-1 years,₹15-20 LPA
+DevOps Engineer,CodeCrafters,Chennai,3-5 years,₹10-15 LPA
+DevOps Engineer,TechCorp,Bangalore,2-4 years,₹10-15 LPA
+AI Engineer,Bright Future Pvt Ltd,Delhi,3-5 years,₹8-12 LPA
+UI/UX Designer,NeuralNet Systems,Chennai,7-10 years,₹3-5 LPA
+Machine Learning Engineer,DataSoft,Hyderabad,4-6 years,₹10-15 LPA
+Data Analyst,DataSoft,Pune,5-7 years,₹20-30 LPA
+Data Analyst,CodeCrafters,Hyderabad,2-4 years,₹5-8 LPA
+Data Scientist,NextGen AI,Remote,0-1 years,₹3-5 LPA
+DevOps Engineer,CodeCrafters,Bangalore,0-1 years,₹6-10 LPA
+Data Scientist,CodeCrafters,Hyderabad,7-10 years,₹10-15 LPA
+DevOps Engineer,Innova Labs,Bangalore,5-7 years,₹20-30 LPA
+UI/UX Designer,TechVerse,Hyderabad,3-5 years,₹10-15 LPA
+Machine Learning Engineer,CloudWorks,Pune,4-6 years,₹4-6 LPA
+Frontend Developer,Reactify,Pune,1-2 years,₹3-5 LPA
+Software Tester,Bright Future Pvt Ltd,Delhi,4-6 years,₹5-8 LPA
+Python Developer,CodeCrafters,Mumbai,5-7 years,₹20-30 LPA
+DevOps Engineer,CloudWorks,Pune,4-6 years,₹20-30 LPA
+Project Manager,NextGen AI,Bangalore,7-10 years,₹8-12 LPA
+React Developer,NeuralNet Systems,Bangalore,5-7 years,₹3-5 LPA
+Full Stack Developer,CodeCrafters,Delhi,4-6 years,₹10-15 LPA
+Project Manager,TechCorp,Hyderabad,3-5 years,₹20-30 LPA
+Project Manager,Web Solutions,Chennai,2-4 years,₹10-15 LPA
+Business Analyst,AlgoGenie,Delhi,3-5 years,₹8-12 LPA
+Python Developer,NextGen AI,Chennai,4-6 years,₹3-5 LPA
+Business Analyst,AlgoGenie,Delhi,7-10 years,₹8-12 LPA
+Software Tester,NextGen AI,Pune,3-5 years,₹8-12 LPA
+React Developer,ABC Tech,Chennai,5-7 years,₹6-10 LPA
+React Developer,NextGen AI,Remote,5-7 years,₹4-6 LPA
+UI/UX Designer,XYZ Analytics,Chennai,4-6 years,₹4-6 LPA
+Data Analyst,Bright Future Pvt Ltd,Pune,4-6 years,₹4-6 LPA
+Backend Engineer,Bright Future Pvt Ltd,Bangalore,7-10 years,₹6-10 LPA
+Cloud Architect,Reactify,Remote,1-2 years,₹10-15 LPA
+Project Manager,ABC Tech,Delhi,4-6 years,₹15-20 LPA
+React Developer,ABC Tech,Pune,1-2 years,₹10-15 LPA
+Full Stack Developer,Web Solutions,Chennai,3-5 years,₹6-10 LPA
+Machine Learning Engineer,Reactify,Pune,7-10 years,₹3-5 LPA
+Backend Engineer,TechCorp,Hyderabad,5-7 years,₹15-20 LPA
+Backend Engineer,Innova Labs,Pune,5-7 years,₹8-12 LPA
+UI/UX Designer,AlgoGenie,Remote,5-7 years,₹4-6 LPA
+Machine Learning Engineer,AlgoGenie,Mumbai,1-2 years,₹3-5 LPA
+Machine Learning Engineer,DataSoft,Chennai,5-7 years,₹10-15 LPA
+Python Developer,Visionary Apps,Mumbai,1-2 years,₹4-6 LPA
+Business Analyst,NextGen AI,Chennai,0-1 years,₹20-30 LPA
+Java Developer,Web Solutions,Mumbai,1-2 years,₹5-8 LPA
+UI/UX Designer,AlgoGenie,Pune,0-1 years,₹6-10 LPA
+Data Scientist,TechVerse,Chennai,5-7 years,₹4-6 LPA
+Java Developer,Visionary Apps,Chennai,4-6 years,₹15-20 LPA
+AI Engineer,Reactify,Bangalore,3-5 years,₹20-30 LPA
+Cloud Architect,NextGen AI,Mumbai,2-4 years,₹6-10 LPA
+UI/UX Designer,AlgoGenie,Delhi,7-10 years,₹20-30 LPA
+Machine Learning Engineer,NeuralNet Systems,Hyderabad,0-1 years,₹10-15 LPA
+Data Analyst,Visionary Apps,Bangalore,0-1 years,₹3-5 LPA
+UI/UX Designer,NextGen AI,Remote,1-2 years,₹3-5 LPA
+AI Engineer,TechCorp,Hyderabad,5-7 years,₹5-8 LPA
+Data Analyst,NextGen AI,Chennai,1-2 years,₹20-30 LPA
+Data Analyst,XYZ Analytics,Pune,0-1 years,₹5-8 LPA
+Python Developer,ABC Tech,Mumbai,2-4 years,₹5-8 LPA
+Machine Learning Engineer,CodeCrafters,Pune,1-2 years,₹3-5 LPA
+Cloud Architect,Bright Future Pvt Ltd,Chennai,4-6 years,₹4-6 LPA
+Java Developer,NextGen AI,Pune,3-5 years,₹5-8 LPA
+Python Developer,Web Solutions,Mumbai,2-4 years,₹15-20 LPA
+Java Developer,CloudWorks,Bangalore,3-5 years,₹8-12 LPA
+UI/UX Designer,Web Solutions,Pune,4-6 years,₹3-5 LPA
+Backend Engineer,CloudWorks,Bangalore,4-6 years,₹15-20 LPA
+Data Scientist,Visionary Apps,Hyderabad,4-6 years,₹20-30 LPA
+UI/UX Designer,ABC Tech,Pune,7-10 years,₹15-20 LPA
+Business Analyst,XYZ Analytics,Pune,1-2 years,₹6-10 LPA
+Backend Engineer,Visionary Apps,Mumbai,3-5 years,₹6-10 LPA
+Machine Learning Engineer,XYZ Analytics,Chennai,2-4 years,₹6-10 LPA
+Java Developer,Bright Future Pvt Ltd,Pune,4-6 years,₹6-10 LPA
+UI/UX Designer,Innova Labs,Remote,2-4 years,₹20-30 LPA
+Project Manager,CloudWorks,Delhi,1-2 years,₹15-20 LPA
+UI/UX Designer,XYZ Analytics,Pune,2-4 years,₹3-5 LPA
+Project Manager,Reactify,Bangalore,3-5 years,₹15-20 LPA
+Project Manager,NeuralNet Systems,Delhi,1-2 years,₹6-10 LPA
+Business Analyst,Innova Labs,Delhi,3-5 years,₹6-10 LPA
+UI/UX Designer,TechVerse,Chennai,4-6 years,₹10-15 LPA
+Frontend Developer,XYZ Analytics,Remote,4-6 years,₹6-10 LPA
+DevOps Engineer,XYZ Analytics,Remote,2-4 years,₹3-5 LPA
+Full Stack Developer,Innova Labs,Mumbai,5-7 years,₹8-12 LPA
+Cloud Architect,XYZ Analytics,Mumbai,7-10 years,₹10-15 LPA
+Machine Learning Engineer,TechVerse,Chennai,3-5 years,₹8-12 LPA
+Project Manager,TechCorp,Delhi,2-4 years,₹20-30 LPA
+Data Scientist,ABC Tech,Delhi,2-4 years,₹8-12 LPA
+Data Scientist,NextGen AI,Delhi,7-10 years,₹20-30 LPA
+Software Tester,Innova Labs,Delhi,0-1 years,₹4-6 LPA
+Python Developer,TechCorp,Chennai,5-7 years,₹8-12 LPA
+React Developer,TechVerse,Delhi,7-10 years,₹5-8 LPA
+Business Analyst,Bright Future Pvt Ltd,Bangalore,1-2 years,₹6-10 LPA
+DevOps Engineer,TechCorp,Chennai,4-6 years,₹4-6 LPA
+Machine Learning Engineer,NeuralNet Systems,Remote,5-7 years,₹4-6 LPA
+Full Stack Developer,NeuralNet Systems,Bangalore,5-7 years,₹20-30 LPA
+Business Analyst,Web Solutions,Pune,1-2 years,₹8-12 LPA
+Python Developer,Reactify,Pune,1-2 years,₹5-8 LPA
+Machine Learning Engineer,AlgoGenie,Hyderabad,7-10 years,₹5-8 LPA
+DevOps Engineer,Visionary Apps,Bangalore,3-5 years,₹5-8 LPA
+Business Analyst,CloudWorks,Delhi,2-4 years,₹8-12 LPA
+DevOps Engineer,AlgoGenie,Bangalore,2-4 years,₹10-15 LPA
+Full Stack Developer,CloudWorks,Hyderabad,3-5 years,₹8-12 LPA
+Data Analyst,XYZ Analytics,Remote,5-7 years,₹6-10 LPA
+DevOps Engineer,NeuralNet Systems,Bangalore,5-7 years,₹20-30 LPA
+React Developer,Bright Future Pvt Ltd,Pune,0-1 years,₹3-5 LPA
+UI/UX Designer,CloudWorks,Delhi,0-1 years,₹4-6 LPA
+DevOps Engineer,ABC Tech,Delhi,1-2 years,₹6-10 LPA
+Full Stack Developer,Visionary Apps,Delhi,5-7 years,₹4-6 LPA
+Full Stack Developer,Visionary Apps,Remote,5-7 years,₹20-30 LPA
+Data Analyst,Web Solutions,Bangalore,1-2 years,₹15-20 LPA
+Frontend Developer,Innova Labs,Hyderabad,0-1 years,₹3-5 LPA
+Machine Learning Engineer,Bright Future Pvt Ltd,Bangalore,7-10 years,₹4-6 LPA
+Cloud Architect,TechVerse,Bangalore,0-1 years,₹6-10 LPA
+React Developer,ABC Tech,Hyderabad,4-6 years,₹6-10 LPA
+React Developer,NeuralNet Systems,Hyderabad,2-4 years,₹4-6 LPA
+Java Developer,Web Solutions,Bangalore,2-4 years,₹4-6 LPA
+Frontend Developer,NextGen AI,Delhi,2-4 years,₹10-15 LPA
+Java Developer,Bright Future Pvt Ltd,Mumbai,4-6 years,₹4-6 LPA
+Backend Engineer,TechCorp,Mumbai,2-4 years,₹5-8 LPA
+Project Manager,TechCorp,Hyderabad,0-1 years,₹10-15 LPA
+Data Scientist,Visionary Apps,Delhi,4-6 years,₹6-10 LPA
+Project Manager,Web Solutions,Delhi,3-5 years,₹10-15 LPA
+Java Developer,TechCorp,Mumbai,1-2 years,₹5-8 LPA
+Project Manager,ABC Tech,Remote,7-10 years,₹5-8 LPA
+Frontend Developer,Innova Labs,Delhi,4-6 years,₹6-10 LPA
+React Developer,CodeCrafters,Hyderabad,5-7 years,₹8-12 LPA
+Full Stack Developer,NextGen AI,Pune,4-6 years,₹10-15 LPA
+Data Analyst,CloudWorks,Delhi,4-6 years,₹5-8 LPA
+Software Tester,AlgoGenie,Mumbai,4-6 years,₹20-30 LPA
+AI Engineer,ABC Tech,Pune,0-1 years,₹8-12 LPA
+Data Scientist,XYZ Analytics,Bangalore,0-1 years,₹6-10 LPA
+React Developer,Reactify,Mumbai,2-4 years,₹6-10 LPA
+Software Tester,XYZ Analytics,Chennai,1-2 years,₹6-10 LPA
+Cloud Architect,Web Solutions,Bangalore,7-10 years,₹6-10 LPA
+Python Developer,ABC Tech,Chennai,4-6 years,₹3-5 LPA
+Project Manager,Web Solutions,Delhi,0-1 years,₹20-30 LPA
+Data Scientist,AlgoGenie,Pune,4-6 years,₹15-20 LPA
+Python Developer,AlgoGenie,Chennai,4-6 years,₹20-30 LPA
+Cloud Architect,TechCorp,Hyderabad,3-5 years,₹3-5 LPA
+Data Scientist,CodeCrafters,Pune,5-7 years,₹6-10 LPA
+Java Developer,AlgoGenie,Pune,4-6 years,₹15-20 LPA
+UI/UX Designer,ABC Tech,Chennai,7-10 years,₹6-10 LPA
+Software Tester,NeuralNet Systems,Chennai,5-7 years,₹10-15 LPA
+Backend Engineer,XYZ Analytics,Hyderabad,4-6 years,₹4-6 LPA
+DevOps Engineer,Innova Labs,Bangalore,2-4 years,₹8-12 LPA
+Software Tester,CloudWorks,Pune,4-6 years,₹10-15 LPA
+DevOps Engineer,CodeCrafters,Remote,3-5 years,₹6-10 LPA
+UI/UX Designer,Visionary Apps,Remote,4-6 years,₹6-10 LPA
+Frontend Developer,AlgoGenie,Delhi,5-7 years,₹10-15 LPA
+Python Developer,Innova Labs,Hyderabad,0-1 years,₹8-12 LPA
+Project Manager,TechCorp,Mumbai,5-7 years,₹20-30 LPA
+UI/UX Designer,CodeCrafters,Remote,1-2 years,₹20-30 LPA
+Project Manager,ABC Tech,Delhi,7-10 years,₹8-12 LPA
+Python Developer,TechVerse,Chennai,4-6 years,₹15-20 LPA
+Java Developer,Web Solutions,Chennai,5-7 years,₹4-6 LPA
+Project Manager,Reactify,Remote,7-10 years,₹6-10 LPA
+Python Developer,ABC Tech,Pune,3-5 years,₹20-30 LPA
+Java Developer,Bright Future Pvt Ltd,Bangalore,1-2 years,₹3-5 LPA
+Data Analyst,NeuralNet Systems,Remote,5-7 years,₹20-30 LPA
+Business Analyst,NextGen AI,Chennai,5-7 years,₹4-6 LPA
+AI Engineer,NeuralNet Systems,Mumbai,3-5 years,₹3-5 LPA
+Business Analyst,DataSoft,Mumbai,0-1 years,₹4-6 LPA
+React Developer,Reactify,Bangalore,1-2 years,₹6-10 LPA
+Data Analyst,Visionary Apps,Hyderabad,5-7 years,₹20-30 LPA
+DevOps Engineer,Visionary Apps,Delhi,3-5 years,₹6-10 LPA
+AI Engineer,Innova Labs,Mumbai,2-4 years,₹6-10 LPA
+AI Engineer,Visionary Apps,Delhi,7-10 years,₹6-10 LPA
+Backend Engineer,TechCorp,Remote,0-1 years,₹4-6 LPA
+Data Analyst,CloudWorks,Bangalore,0-1 years,₹10-15 LPA
+Data Scientist,DataSoft,Mumbai,3-5 years,₹3-5 LPA
+Project Manager,Innova Labs,Delhi,0-1 years,₹20-30 LPA
+Data Scientist,ABC Tech,Mumbai,7-10 years,₹10-15 LPA
+Backend Engineer,Visionary Apps,Bangalore,0-1 years,₹4-6 LPA
+Data Scientist,Bright Future Pvt Ltd,Bangalore,0-1 years,₹3-5 LPA
+Frontend Developer,TechVerse,Bangalore,4-6 years,₹8-12 LPA
+Java Developer,Visionary Apps,Chennai,7-10 years,₹8-12 LPA
+Data Analyst,Bright Future Pvt Ltd,Chennai,1-2 years,₹8-12 LPA
+Full Stack Developer,Innova Labs,Hyderabad,4-6 years,₹15-20 LPA
+Backend Engineer,CloudWorks,Hyderabad,2-4 years,₹15-20 LPA
+Data Scientist,ABC Tech,Pune,5-7 years,₹3-5 LPA
+AI Engineer,DataSoft,Pune,5-7 years,₹6-10 LPA
+Full Stack Developer,CodeCrafters,Mumbai,1-2 years,₹20-30 LPA
+Full Stack Developer,AlgoGenie,Mumbai,3-5 years,₹4-6 LPA
+Project Manager,Web Solutions,Mumbai,0-1 years,₹15-20 LPA
+Java Developer,Reactify,Delhi,1-2 years,₹8-12 LPA
+UI/UX Designer,CloudWorks,Bangalore,3-5 years,₹15-20 LPA
+Data Scientist,Web Solutions,Remote,1-2 years,₹3-5 LPA
+Backend Engineer,Web Solutions,Remote,1-2 years,₹4-6 LPA
+Full Stack Developer,Innova Labs,Delhi,4-6 years,₹20-30 LPA
+Python Developer,NextGen AI,Delhi,4-6 years,₹8-12 LPA
+UI/UX Designer,CloudWorks,Chennai,4-6 years,₹10-15 LPA
+Cloud Architect,CloudWorks,Delhi,4-6 years,₹15-20 LPA
+Machine Learning Engineer,Innova Labs,Pune,5-7 years,₹5-8 LPA
+Full Stack Developer,Bright Future Pvt Ltd,Delhi,1-2 years,₹15-20 LPA
+UI/UX Designer,Web Solutions,Hyderabad,0-1 years,₹4-6 LPA
+Data Analyst,AlgoGenie,Mumbai,5-7 years,₹4-6 LPA
+Data Analyst,Innova Labs,Hyderabad,3-5 years,₹6-10 LPA
+React Developer,Bright Future Pvt Ltd,Delhi,4-6 years,₹4-6 LPA
+Java Developer,Bright Future Pvt Ltd,Chennai,0-1 years,₹8-12 LPA
+Software Tester,Reactify,Chennai,1-2 years,₹20-30 LPA
+Data Analyst,AlgoGenie,Delhi,3-5 years,₹5-8 LPA
+Java Developer,Bright Future Pvt Ltd,Mumbai,2-4 years,₹4-6 LPA
+Java Developer,Visionary Apps,Mumbai,4-6 years,₹4-6 LPA
+Software Tester,TechVerse,Pune,7-10 years,₹6-10 LPA
+Frontend Developer,XYZ Analytics,Bangalore,3-5 years,₹5-8 LPA
+Python Developer,ABC Tech,Chennai,3-5 years,₹5-8 LPA
+DevOps Engineer,Innova Labs,Chennai,2-4 years,₹4-6 LPA
+Data Scientist,Bright Future Pvt Ltd,Hyderabad,1-2 years,₹5-8 LPA
+Backend Engineer,Visionary Apps,Hyderabad,2-4 years,₹5-8 LPA
+Data Analyst,NeuralNet Systems,Delhi,3-5 years,₹4-6 LPA
+Backend Engineer,Innova Labs,Remote,0-1 years,₹4-6 LPA
+Full Stack Developer,NeuralNet Systems,Pune,2-4 years,₹10-15 LPA
+Frontend Developer,NeuralNet Systems,Mumbai,0-1 years,₹20-30 LPA
+Python Developer,Web Solutions,Delhi,2-4 years,₹8-12 LPA
+Business Analyst,NextGen AI,Remote,2-4 years,₹15-20 LPA
+Backend Engineer,CloudWorks,Bangalore,5-7 years,₹5-8 LPA
+AI Engineer,Visionary Apps,Pune,1-2 years,₹15-20 LPA
+Data Scientist,CloudWorks,Mumbai,3-5 years,₹8-12 LPA
+Python Developer,TechCorp,Delhi,0-1 years,₹4-6 LPA
+Frontend Developer,CodeCrafters,Mumbai,5-7 years,₹15-20 LPA
+Software Tester,XYZ Analytics,Pune,4-6 years,₹6-10 LPA
+Data Analyst,Reactify,Hyderabad,4-6 years,₹5-8 LPA
+Machine Learning Engineer,Reactify,Mumbai,5-7 years,₹10-15 LPA
+Business Analyst,Innova Labs,Pune,3-5 years,₹3-5 LPA
+Backend Engineer,Bright Future Pvt Ltd,Mumbai,7-10 years,₹3-5 LPA
+Frontend Developer,NextGen AI,Delhi,4-6 years,₹15-20 LPA
+Cloud Architect,XYZ Analytics,Mumbai,3-5 years,₹20-30 LPA
+UI/UX Designer,TechCorp,Delhi,7-10 years,₹8-12 LPA
+DevOps Engineer,XYZ Analytics,Mumbai,4-6 years,₹8-12 LPA
+Data Analyst,Web Solutions,Chennai,7-10 years,₹3-5 LPA
+React Developer,Visionary Apps,Delhi,7-10 years,₹8-12 LPA
+Full Stack Developer,TechCorp,Delhi,5-7 years,₹10-15 LPA
+UI/UX Designer,Bright Future Pvt Ltd,Remote,2-4 years,₹6-10 LPA
+UI/UX Designer,NextGen AI,Chennai,4-6 years,₹15-20 LPA
+Machine Learning Engineer,TechVerse,Chennai,5-7 years,₹6-10 LPA
+DevOps Engineer,XYZ Analytics,Delhi,4-6 years,₹5-8 LPA
+AI Engineer,Innova Labs,Mumbai,7-10 years,₹15-20 LPA
+Python Developer,Web Solutions,Hyderabad,5-7 years,₹6-10 LPA
+Machine Learning Engineer,DataSoft,Remote,2-4 years,₹5-8 LPA
+Software Tester,TechVerse,Mumbai,2-4 years,₹8-12 LPA
+Project Manager,NeuralNet Systems,Remote,3-5 years,₹3-5 LPA
+Data Analyst,TechVerse,Pune,5-7 years,₹3-5 LPA
+AI Engineer,TechCorp,Bangalore,7-10 years,₹4-6 LPA
+React Developer,Reactify,Remote,2-4 years,₹3-5 LPA
+Data Scientist,AlgoGenie,Bangalore,4-6 years,₹10-15 LPA
+Software Tester,Visionary Apps,Chennai,7-10 years,₹4-6 LPA
+Frontend Developer,CloudWorks,Remote,3-5 years,₹3-5 LPA
+Python Developer,NextGen AI,Delhi,1-2 years,₹5-8 LPA
+Full Stack Developer,Innova Labs,Hyderabad,3-5 years,₹8-12 LPA
+Project Manager,Bright Future Pvt Ltd,Bangalore,7-10 years,₹8-12 LPA
+Python Developer,ABC Tech,Hyderabad,3-5 years,₹4-6 LPA
+AI Engineer,CloudWorks,Pune,7-10 years,₹4-6 LPA
+Python Developer,Visionary Apps,Pune,2-4 years,₹5-8 LPA
+Data Analyst,TechVerse,Pune,0-1 years,₹8-12 LPA
+Data Scientist,Web Solutions,Remote,2-4 years,₹10-15 LPA
+Java Developer,CloudWorks,Remote,0-1 years,₹6-10 LPA
+Cloud Architect,CloudWorks,Bangalore,3-5 years,₹3-5 LPA
+Python Developer,DataSoft,Delhi,0-1 years,₹20-30 LPA
+UI/UX Designer,NeuralNet Systems,Pune,3-5 years,₹6-10 LPA
+Cloud Architect,Visionary Apps,Mumbai,7-10 years,₹4-6 LPA
+Machine Learning Engineer,TechCorp,Hyderabad,2-4 years,₹3-5 LPA
+Backend Engineer,Reactify,Chennai,4-6 years,₹5-8 LPA
+UI/UX Designer,AlgoGenie,Hyderabad,7-10 years,₹3-5 LPA
+AI Engineer,CloudWorks,Remote,5-7 years,₹5-8 LPA
+Software Tester,Bright Future Pvt Ltd,Remote,0-1 years,₹8-12 LPA
+Software Tester,XYZ Analytics,Hyderabad,0-1 years,₹3-5 LPA
+Software Tester,NeuralNet Systems,Chennai,4-6 years,₹6-10 LPA
+Data Scientist,CloudWorks,Pune,7-10 years,₹6-10 LPA
+Data Scientist,Visionary Apps,Remote,5-7 years,₹8-12 LPA
+Cloud Architect,ABC Tech,Remote,5-7 years,₹8-12 LPA
+Business Analyst,Reactify,Pune,5-7 years,₹3-5 LPA
+Business Analyst,AlgoGenie,Hyderabad,1-2 years,₹20-30 LPA
+Full Stack Developer,TechCorp,Chennai,5-7 years,₹8-12 LPA
+UI/UX Designer,Innova Labs,Chennai,5-7 years,₹5-8 LPA
+Data Scientist,AlgoGenie,Bangalore,3-5 years,₹5-8 LPA
+Cloud Architect,Bright Future Pvt Ltd,Pune,2-4 years,₹8-12 LPA
+Software Tester,Web Solutions,Delhi,2-4 years,₹8-12 LPA
+UI/UX Designer,CloudWorks,Delhi,7-10 years,₹3-5 LPA
+Business Analyst,Web Solutions,Mumbai,5-7 years,₹15-20 LPA
+Data Scientist,TechVerse,Mumbai,7-10 years,₹6-10 LPA
+DevOps Engineer,CloudWorks,Remote,4-6 years,₹3-5 LPA
+DevOps Engineer,Innova Labs,Hyderabad,0-1 years,₹20-30 LPA
+Business Analyst,Bright Future Pvt Ltd,Remote,4-6 years,₹10-15 LPA
+Business Analyst,Web Solutions,Hyderabad,1-2 years,₹3-5 LPA
+React Developer,TechVerse,Hyderabad,2-4 years,₹5-8 LPA
+Cloud Architect,TechCorp,Bangalore,4-6 years,₹4-6 LPA
+Machine Learning Engineer,Web Solutions,Hyderabad,7-10 years,₹20-30 LPA
+Full Stack Developer,DataSoft,Chennai,0-1 years,₹4-6 LPA
+Python Developer,Web Solutions,Chennai,1-2 years,₹3-5 LPA
+Data Scientist,Innova Labs,Bangalore,2-4 years,₹20-30 LPA
+Full Stack Developer,ABC Tech,Chennai,7-10 years,₹15-20 LPA
+Python Developer,CloudWorks,Mumbai,0-1 years,₹15-20 LPA
+Project Manager,TechVerse,Remote,0-1 years,₹5-8 LPA
+Machine Learning Engineer,NextGen AI,Bangalore,2-4 years,₹5-8 LPA
+Software Tester,Innova Labs,Mumbai,2-4 years,₹3-5 LPA
+Python Developer,NextGen AI,Chennai,7-10 years,₹10-15 LPA
+Data Scientist,XYZ Analytics,Pune,3-5 years,₹8-12 LPA
+Java Developer,TechVerse,Pune,3-5 years,₹3-5 LPA
+Data Analyst,XYZ Analytics,Chennai,2-4 years,₹15-20 LPA
+Data Scientist,TechVerse,Hyderabad,0-1 years,₹15-20 LPA
+Frontend Developer,NeuralNet Systems,Bangalore,4-6 years,₹10-15 LPA
+Data Scientist,DataSoft,Chennai,4-6 years,₹4-6 LPA
+Python Developer,TechCorp,Mumbai,4-6 years,₹10-15 LPA
+Software Tester,NextGen AI,Hyderabad,5-7 years,₹3-5 LPA
+DevOps Engineer,Bright Future Pvt Ltd,Hyderabad,7-10 years,₹10-15 LPA
+DevOps Engineer,NextGen AI,Hyderabad,4-6 years,₹15-20 LPA
+Python Developer,Bright Future Pvt Ltd,Remote,3-5 years,₹8-12 LPA
+Software Tester,Innova Labs,Delhi,3-5 years,₹8-12 LPA
+Business Analyst,ABC Tech,Remote,5-7 years,₹5-8 LPA
+Software Tester,Reactify,Chennai,3-5 years,₹3-5 LPA
+Machine Learning Engineer,TechCorp,Delhi,2-4 years,₹10-15 LPA
+Data Analyst,Reactify,Bangalore,2-4 years,₹8-12 LPA
+Frontend Developer,NeuralNet Systems,Mumbai,3-5 years,₹8-12 LPA
+UI/UX Designer,Visionary Apps,Chennai,0-1 years,₹10-15 LPA
+Data Analyst,AlgoGenie,Hyderabad,2-4 years,₹8-12 LPA
+Full Stack Developer,Innova Labs,Bangalore,2-4 years,₹10-15 LPA
+UI/UX Designer,AlgoGenie,Chennai,3-5 years,₹20-30 LPA
+Backend Engineer,TechVerse,Mumbai,3-5 years,₹6-10 LPA
+Frontend Developer,CodeCrafters,Hyderabad,5-7 years,₹15-20 LPA
+Backend Engineer,Visionary Apps,Chennai,0-1 years,₹15-20 LPA
+Cloud Architect,DataSoft,Chennai,2-4 years,₹6-10 LPA
+Data Scientist,ABC Tech,Pune,2-4 years,₹20-30 LPA
+React Developer,Bright Future Pvt Ltd,Mumbai,5-7 years,₹15-20 LPA
+AI Engineer,Reactify,Pune,5-7 years,₹6-10 LPA
+Backend Engineer,Web Solutions,Chennai,7-10 years,₹10-15 LPA
+Java Developer,DataSoft,Mumbai,4-6 years,₹3-5 LPA
+Software Tester,Bright Future Pvt Ltd,Hyderabad,5-7 years,₹10-15 LPA
+Business Analyst,TechCorp,Delhi,1-2 years,₹3-5 LPA
+Machine Learning Engineer,Bright Future Pvt Ltd,Remote,5-7 years,₹10-15 LPA
+DevOps Engineer,AlgoGenie,Delhi,7-10 years,₹10-15 LPA
+Data Scientist,CloudWorks,Chennai,7-10 years,₹3-5 LPA
+Data Scientist,NeuralNet Systems,Delhi,7-10 years,₹3-5 LPA
+Full Stack Developer,DataSoft,Hyderabad,5-7 years,₹20-30 LPA
+Software Tester,Innova Labs,Remote,1-2 years,₹15-20 LPA
+Backend Engineer,NextGen AI,Mumbai,1-2 years,₹20-30 LPA
+Java Developer,AlgoGenie,Pune,3-5 years,₹3-5 LPA
+Python Developer,CloudWorks,Remote,1-2 years,₹10-15 LPA
+Cloud Architect,Innova Labs,Delhi,0-1 years,₹20-30 LPA
+DevOps Engineer,NeuralNet Systems,Bangalore,3-5 years,₹20-30 LPA
+Python Developer,XYZ Analytics,Mumbai,4-6 years,₹20-30 LPA
+Software Tester,XYZ Analytics,Pune,2-4 years,₹6-10 LPA
+Data Analyst,NextGen AI,Hyderabad,3-5 years,₹4-6 LPA
+Data Analyst,TechVerse,Hyderabad,4-6 years,₹15-20 LPA
+Cloud Architect,Visionary Apps,Chennai,3-5 years,₹4-6 LPA
+Frontend Developer,NeuralNet Systems,Hyderabad,3-5 years,₹3-5 LPA
+Business Analyst,TechCorp,Hyderabad,2-4 years,₹3-5 LPA
+Full Stack Developer,NextGen AI,Bangalore,2-4 years,₹4-6 LPA
+Data Analyst,CloudWorks,Mumbai,5-7 years,₹3-5 LPA
+Project Manager,Reactify,Mumbai,1-2 years,₹15-20 LPA
+Cloud Architect,Reactify,Remote,5-7 years,₹10-15 LPA
+Machine Learning Engineer,XYZ Analytics,Pune,0-1 years,₹8-12 LPA
+Backend Engineer,CloudWorks,Hyderabad,5-7 years,₹8-12 LPA
+UI/UX Designer,ABC Tech,Pune,5-7 years,₹3-5 LPA
+Backend Engineer,CodeCrafters,Hyderabad,0-1 years,₹15-20 LPA
+Python Developer,TechCorp,Chennai,4-6 years,₹3-5 LPA
+AI Engineer,AlgoGenie,Pune,7-10 years,₹4-6 LPA
+Project Manager,Visionary Apps,Chennai,2-4 years,₹3-5 LPA
+Java Developer,CloudWorks,Hyderabad,1-2 years,₹15-20 LPA
+Cloud Architect,AlgoGenie,Hyderabad,7-10 years,₹4-6 LPA
+Project Manager,Reactify,Mumbai,2-4 years,₹4-6 LPA
+Cloud Architect,TechVerse,Chennai,5-7 years,₹15-20 LPA
+Data Analyst,Visionary Apps,Delhi,1-2 years,₹6-10 LPA
+Full Stack Developer,Reactify,Mumbai,0-1 years,₹8-12 LPA
+React Developer,DataSoft,Mumbai,2-4 years,₹4-6 LPA
+Software Tester,AlgoGenie,Remote,4-6 years,₹4-6 LPA
+Cloud Architect,Web Solutions,Mumbai,5-7 years,₹3-5 LPA
+UI/UX Designer,DataSoft,Delhi,7-10 years,₹8-12 LPA
+Full Stack Developer,Bright Future Pvt Ltd,Bangalore,2-4 years,₹5-8 LPA
+UI/UX Designer,Innova Labs,Remote,4-6 years,₹15-20 LPA
+UI/UX Designer,Innova Labs,Chennai,4-6 years,₹3-5 LPA
+Frontend Developer,Visionary Apps,Bangalore,5-7 years,₹20-30 LPA
+Software Tester,CloudWorks,Delhi,2-4 years,₹10-15 LPA
+React Developer,NextGen AI,Delhi,4-6 years,₹10-15 LPA
+Cloud Architect,XYZ Analytics,Mumbai,3-5 years,₹10-15 LPA
+Python Developer,Visionary Apps,Delhi,1-2 years,₹4-6 LPA
+Frontend Developer,NeuralNet Systems,Delhi,5-7 years,₹8-12 LPA
+Backend Engineer,Reactify,Pune,7-10 years,₹15-20 LPA
+Backend Engineer,Visionary Apps,Remote,0-1 years,₹3-5 LPA
+AI Engineer,AlgoGenie,Pune,7-10 years,₹10-15 LPA
+Data Analyst,Web Solutions,Pune,2-4 years,₹5-8 LPA
+Cloud Architect,CloudWorks,Mumbai,0-1 years,₹15-20 LPA
+Data Analyst,ABC Tech,Pune,0-1 years,₹8-12 LPA
+Cloud Architect,XYZ Analytics,Mumbai,0-1 years,₹5-8 LPA
+Cloud Architect,CloudWorks,Hyderabad,7-10 years,₹3-5 LPA
+Business Analyst,CodeCrafters,Remote,2-4 years,₹8-12 LPA
+Software Tester,ABC Tech,Delhi,5-7 years,₹15-20 LPA
+Data Analyst,Web Solutions,Mumbai,7-10 years,₹15-20 LPA
+Frontend Developer,AlgoGenie,Delhi,5-7 years,₹5-8 LPA
+Business Analyst,Visionary Apps,Remote,4-6 years,₹15-20 LPA
+Data Scientist,Web Solutions,Pune,3-5 years,₹6-10 LPA
+Software Tester,DataSoft,Chennai,3-5 years,₹6-10 LPA
+Java Developer,CloudWorks,Bangalore,2-4 years,₹8-12 LPA
+Cloud Architect,Innova Labs,Pune,5-7 years,₹10-15 LPA
+Data Scientist,TechVerse,Pune,1-2 years,₹4-6 LPA
+Machine Learning Engineer,CodeCrafters,Hyderabad,0-1 years,₹4-6 LPA
+Cloud Architect,Visionary Apps,Chennai,7-10 years,₹3-5 LPA
+Frontend Developer,CodeCrafters,Pune,3-5 years,₹15-20 LPA
+Data Analyst,TechCorp,Remote,7-10 years,₹15-20 LPA
+Machine Learning Engineer,CodeCrafters,Mumbai,0-1 years,₹3-5 LPA
+Java Developer,ABC Tech,Delhi,0-1 years,₹6-10 LPA
+Software Tester,DataSoft,Pune,3-5 years,₹6-10 LPA
+Cloud Architect,XYZ Analytics,Chennai,7-10 years,₹6-10 LPA
+UI/UX Designer,TechVerse,Hyderabad,4-6 years,₹5-8 LPA
+Java Developer,CodeCrafters,Chennai,0-1 years,₹4-6 LPA
+Java Developer,Web Solutions,Hyderabad,7-10 years,₹3-5 LPA
+Business Analyst,TechCorp,Remote,2-4 years,₹20-30 LPA
+Backend Engineer,Visionary Apps,Bangalore,7-10 years,₹20-30 LPA
+Data Scientist,DataSoft,Hyderabad,0-1 years,₹5-8 LPA
+Project Manager,XYZ Analytics,Pune,3-5 years,₹4-6 LPA
+UI/UX Designer,Innova Labs,Chennai,4-6 years,₹3-5 LPA
+Business Analyst,NextGen AI,Bangalore,2-4 years,₹6-10 LPA
+React Developer,CodeCrafters,Hyderabad,3-5 years,₹4-6 LPA
+Full Stack Developer,CodeCrafters,Pune,3-5 years,₹10-15 LPA
+Business Analyst,TechVerse,Bangalore,5-7 years,₹3-5 LPA
+Frontend Developer,TechCorp,Mumbai,0-1 years,₹20-30 LPA
+Data Analyst,Visionary Apps,Bangalore,3-5 years,₹15-20 LPA
+Cloud Architect,Reactify,Delhi,4-6 years,₹8-12 LPA
+Data Scientist,ABC Tech,Remote,5-7 years,₹4-6 LPA
+Data Analyst,Reactify,Delhi,3-5 years,₹15-20 LPA
+Frontend Developer,NeuralNet Systems,Hyderabad,5-7 years,₹15-20 LPA
+React Developer,TechCorp,Chennai,2-4 years,₹3-5 LPA
+Full Stack Developer,NeuralNet Systems,Remote,7-10 years,₹5-8 LPA
+Cloud Architect,Web Solutions,Pune,2-4 years,₹6-10 LPA
+UI/UX Designer,TechVerse,Delhi,3-5 years,₹8-12 LPA
+Data Analyst,TechCorp,Delhi,1-2 years,₹4-6 LPA
+Project Manager,TechCorp,Delhi,4-6 years,₹10-15 LPA
+Data Analyst,Web Solutions,Mumbai,7-10 years,₹20-30 LPA
+React Developer,Innova Labs,Chennai,7-10 years,₹20-30 LPA
+Cloud Architect,Reactify,Mumbai,2-4 years,₹3-5 LPA
+Python Developer,Innova Labs,Mumbai,4-6 years,₹20-30 LPA
+Data Scientist,DataSoft,Delhi,1-2 years,₹15-20 LPA
+Machine Learning Engineer,AlgoGenie,Bangalore,4-6 years,₹15-20 LPA
+Java Developer,DataSoft,Hyderabad,4-6 years,₹20-30 LPA
+Project Manager,AlgoGenie,Bangalore,7-10 years,₹6-10 LPA
+Business Analyst,CodeCrafters,Delhi,2-4 years,₹8-12 LPA
+Software Tester,Bright Future Pvt Ltd,Delhi,2-4 years,₹20-30 LPA
+Machine Learning Engineer,AlgoGenie,Delhi,0-1 years,₹15-20 LPA
+AI Engineer,AlgoGenie,Bangalore,7-10 years,₹3-5 LPA
+Cloud Architect,Web Solutions,Delhi,3-5 years,₹20-30 LPA
+Full Stack Developer,NextGen AI,Bangalore,5-7 years,₹15-20 LPA
+Machine Learning Engineer,Visionary Apps,Chennai,0-1 years,₹5-8 LPA
+Frontend Developer,CodeCrafters,Remote,5-7 years,₹5-8 LPA
+Full Stack Developer,Visionary Apps,Chennai,3-5 years,₹15-20 LPA
+Project Manager,AlgoGenie,Remote,7-10 years,₹20-30 LPA
+Data Analyst,Reactify,Chennai,7-10 years,₹15-20 LPA
+Python Developer,CodeCrafters,Remote,2-4 years,₹20-30 LPA
+Project Manager,Web Solutions,Remote,3-5 years,₹3-5 LPA
+Business Analyst,Web Solutions,Pune,4-6 years,₹3-5 LPA
+Python Developer,Innova Labs,Pune,1-2 years,₹6-10 LPA
+Business Analyst,ABC Tech,Delhi,2-4 years,₹4-6 LPA
+Data Analyst,Reactify,Delhi,4-6 years,₹4-6 LPA
+React Developer,DataSoft,Delhi,7-10 years,₹6-10 LPA
+Frontend Developer,Innova Labs,Remote,4-6 years,₹10-15 LPA
+Project Manager,TechVerse,Delhi,0-1 years,₹8-12 LPA
+Project Manager,NeuralNet Systems,Hyderabad,7-10 years,₹4-6 LPA
+Software Tester,CodeCrafters,Hyderabad,1-2 years,₹15-20 LPA
+DevOps Engineer,AlgoGenie,Pune,0-1 years,₹6-10 LPA
+Python Developer,Innova Labs,Mumbai,1-2 years,₹4-6 LPA
+Java Developer,Innova Labs,Pune,3-5 years,₹4-6 LPA
+Data Analyst,XYZ Analytics,Chennai,5-7 years,₹6-10 LPA
+Machine Learning Engineer,CloudWorks,Chennai,5-7 years,₹8-12 LPA
+Software Tester,Bright Future Pvt Ltd,Chennai,4-6 years,₹5-8 LPA
+Business Analyst,Bright Future Pvt Ltd,Chennai,4-6 years,₹4-6 LPA
+Backend Engineer,DataSoft,Mumbai,2-4 years,₹3-5 LPA
+Frontend Developer,NextGen AI,Chennai,0-1 years,₹5-8 LPA
+UI/UX Designer,AlgoGenie,Bangalore,2-4 years,₹8-12 LPA
+Data Scientist,Web Solutions,Pune,5-7 years,₹3-5 LPA
+UI/UX Designer,Innova Labs,Mumbai,0-1 years,₹5-8 LPA
+Frontend Developer,ABC Tech,Pune,0-1 years,₹3-5 LPA
+Software Tester,Bright Future Pvt Ltd,Delhi,4-6 years,₹10-15 LPA
+Backend Engineer,TechVerse,Delhi,0-1 years,₹4-6 LPA
+UI/UX Designer,XYZ Analytics,Chennai,4-6 years,₹4-6 LPA
+Machine Learning Engineer,TechVerse,Bangalore,1-2 years,₹20-30 LPA
+Data Analyst,Visionary Apps,Delhi,3-5 years,₹4-6 LPA
+Full Stack Developer,Visionary Apps,Mumbai,7-10 years,₹8-12 LPA
+Machine Learning Engineer,TechCorp,Bangalore,2-4 years,₹5-8 LPA
+Java Developer,NeuralNet Systems,Delhi,5-7 years,₹6-10 LPA
+Full Stack Developer,NeuralNet Systems,Pune,3-5 years,₹4-6 LPA
+React Developer,NextGen AI,Hyderabad,5-7 years,₹20-30 LPA
+Java Developer,NeuralNet Systems,Chennai,1-2 years,₹8-12 LPA
+Software Tester,DataSoft,Bangalore,5-7 years,₹3-5 LPA
+Software Tester,Reactify,Remote,4-6 years,₹20-30 LPA
+DevOps Engineer,TechVerse,Bangalore,4-6 years,₹8-12 LPA
+Cloud Architect,CodeCrafters,Hyderabad,2-4 years,₹15-20 LPA
+AI Engineer,DataSoft,Chennai,4-6 years,₹3-5 LPA
+Business Analyst,Web Solutions,Delhi,7-10 years,₹5-8 LPA
+Frontend Developer,TechCorp,Bangalore,0-1 years,₹3-5 LPA
+Business Analyst,TechVerse,Hyderabad,7-10 years,₹6-10 LPA
+Java Developer,NextGen AI,Mumbai,0-1 years,₹20-30 LPA
+Java Developer,NeuralNet Systems,Remote,1-2 years,₹15-20 LPA
+Cloud Architect,AlgoGenie,Bangalore,3-5 years,₹4-6 LPA
+DevOps Engineer,TechCorp,Mumbai,4-6 years,₹20-30 LPA
+React Developer,NeuralNet Systems,Mumbai,1-2 years,₹5-8 LPA
+Java Developer,XYZ Analytics,Mumbai,2-4 years,₹6-10 LPA
+Full Stack Developer,CloudWorks,Delhi,2-4 years,₹20-30 LPA
+Full Stack Developer,CodeCrafters,Pune,3-5 years,₹20-30 LPA
+Frontend Developer,TechVerse,Chennai,0-1 years,₹6-10 LPA
+Business Analyst,Visionary Apps,Bangalore,0-1 years,₹6-10 LPA
+Data Analyst,Visionary Apps,Bangalore,7-10 years,₹5-8 LPA
+React Developer,TechCorp,Hyderabad,7-10 years,₹4-6 LPA
+React Developer,AlgoGenie,Remote,1-2 years,₹5-8 LPA
+Python Developer,XYZ Analytics,Pune,0-1 years,₹5-8 LPA
+UI/UX Designer,Reactify,Mumbai,1-2 years,₹5-8 LPA
+Backend Engineer,NextGen AI,Chennai,3-5 years,₹10-15 LPA
+Project Manager,Innova Labs,Delhi,3-5 years,₹6-10 LPA
+UI/UX Designer,Reactify,Remote,0-1 years,₹15-20 LPA
+Backend Engineer,TechCorp,Chennai,5-7 years,₹20-30 LPA
+DevOps Engineer,Reactify,Mumbai,1-2 years,₹15-20 LPA
+Full Stack Developer,TechCorp,Hyderabad,5-7 years,₹10-15 LPA
+DevOps Engineer,TechVerse,Bangalore,3-5 years,₹5-8 LPA
+Full Stack Developer,DataSoft,Remote,1-2 years,₹15-20 LPA
+AI Engineer,TechVerse,Pune,4-6 years,₹6-10 LPA
+AI Engineer,XYZ Analytics,Bangalore,4-6 years,₹6-10 LPA
+Java Developer,XYZ Analytics,Delhi,4-6 years,₹5-8 LPA
+Backend Engineer,Web Solutions,Remote,5-7 years,₹4-6 LPA
+Java Developer,ABC Tech,Chennai,1-2 years,₹6-10 LPA
+Data Analyst,TechVerse,Bangalore,1-2 years,₹10-15 LPA
+Data Scientist,CodeCrafters,Bangalore,1-2 years,₹10-15 LPA
+Data Scientist,Innova Labs,Chennai,2-4 years,₹10-15 LPA
+Data Scientist,CodeCrafters,Pune,5-7 years,₹3-5 LPA
+UI/UX Designer,NextGen AI,Bangalore,3-5 years,₹5-8 LPA
+Python Developer,CodeCrafters,Remote,4-6 years,₹6-10 LPA
+Business Analyst,TechCorp,Delhi,0-1 years,₹8-12 LPA
+Java Developer,DataSoft,Delhi,2-4 years,₹20-30 LPA
+Data Scientist,TechVerse,Pune,4-6 years,₹8-12 LPA
+DevOps Engineer,TechVerse,Bangalore,4-6 years,₹20-30 LPA
+Java Developer,TechCorp,Bangalore,0-1 years,₹8-12 LPA
+Software Tester,Bright Future Pvt Ltd,Delhi,0-1 years,₹4-6 LPA
+Java Developer,AlgoGenie,Bangalore,2-4 years,₹20-30 LPA
+Business Analyst,Web Solutions,Hyderabad,4-6 years,₹10-15 LPA
+DevOps Engineer,Reactify,Delhi,3-5 years,₹3-5 LPA
+Cloud Architect,TechVerse,Mumbai,0-1 years,₹20-30 LPA
+Machine Learning Engineer,ABC Tech,Pune,1-2 years,₹6-10 LPA
+Cloud Architect,CloudWorks,Pune,0-1 years,₹15-20 LPA
+Data Scientist,Web Solutions,Chennai,4-6 years,₹5-8 LPA
+Python Developer,Innova Labs,Remote,0-1 years,₹20-30 LPA
+Full Stack Developer,TechVerse,Bangalore,4-6 years,₹10-15 LPA
+AI Engineer,CloudWorks,Chennai,5-7 years,₹15-20 LPA
+Data Analyst,NextGen AI,Remote,4-6 years,₹3-5 LPA
+Full Stack Developer,Innova Labs,Hyderabad,5-7 years,₹4-6 LPA
+Cloud Architect,Reactify,Hyderabad,0-1 years,₹5-8 LPA
+Cloud Architect,TechCorp,Bangalore,3-5 years,₹10-15 LPA
+Data Scientist,XYZ Analytics,Chennai,5-7 years,₹3-5 LPA
+Python Developer,Bright Future Pvt Ltd,Delhi,4-6 years,₹6-10 LPA
+Machine Learning Engineer,NeuralNet Systems,Bangalore,3-5 years,₹6-10 LPA
+Backend Engineer,Innova Labs,Delhi,4-6 years,₹10-15 LPA
+Software Tester,XYZ Analytics,Bangalore,5-7 years,₹3-5 LPA
+Java Developer,DataSoft,Hyderabad,2-4 years,₹5-8 LPA
+Java Developer,Bright Future Pvt Ltd,Delhi,0-1 years,₹20-30 LPA
+Project Manager,AlgoGenie,Delhi,2-4 years,₹5-8 LPA
+Backend Engineer,DataSoft,Pune,2-4 years,₹5-8 LPA
+Machine Learning Engineer,TechCorp,Bangalore,1-2 years,₹5-8 LPA
+Data Scientist,XYZ Analytics,Mumbai,3-5 years,₹5-8 LPA
+Python Developer,XYZ Analytics,Hyderabad,3-5 years,₹10-15 LPA
+Java Developer,Bright Future Pvt Ltd,Remote,7-10 years,₹15-20 LPA
+Frontend Developer,XYZ Analytics,Remote,3-5 years,₹6-10 LPA
+Frontend Developer,XYZ Analytics,Pune,7-10 years,₹8-12 LPA
+Java Developer,CloudWorks,Bangalore,7-10 years,₹20-30 LPA
+Project Manager,NextGen AI,Mumbai,5-7 years,₹6-10 LPA
+Full Stack Developer,CodeCrafters,Mumbai,1-2 years,₹20-30 LPA
+AI Engineer,Bright Future Pvt Ltd,Chennai,4-6 years,₹4-6 LPA
+AI Engineer,Innova Labs,Delhi,4-6 years,₹6-10 LPA
+Data Scientist,CodeCrafters,Mumbai,3-5 years,₹5-8 LPA
+Data Scientist,DataSoft,Bangalore,5-7 years,₹15-20 LPA
+AI Engineer,CodeCrafters,Chennai,0-1 years,₹3-5 LPA
+Business Analyst,Reactify,Remote,3-5 years,₹8-12 LPA
+Machine Learning Engineer,AlgoGenie,Bangalore,4-6 years,₹5-8 LPA
+Python Developer,Reactify,Chennai,5-7 years,₹4-6 LPA
+Backend Engineer,DataSoft,Hyderabad,3-5 years,₹15-20 LPA
+Machine Learning Engineer,ABC Tech,Pune,0-1 years,₹5-8 LPA
+Data Scientist,AlgoGenie,Delhi,2-4 years,₹5-8 LPA
+Data Scientist,NeuralNet Systems,Hyderabad,4-6 years,₹20-30 LPA
+DevOps Engineer,Visionary Apps,Remote,4-6 years,₹10-15 LPA
+Project Manager,CodeCrafters,Bangalore,2-4 years,₹10-15 LPA
+AI Engineer,ABC Tech,Delhi,4-6 years,₹15-20 LPA
+Backend Engineer,ABC Tech,Remote,7-10 years,₹10-15 LPA
+Full Stack Developer,ABC Tech,Hyderabad,7-10 years,₹3-5 LPA
+Data Scientist,ABC Tech,Delhi,7-10 years,₹8-12 LPA
+Software Tester,CodeCrafters,Hyderabad,5-7 years,₹10-15 LPA
+Full Stack Developer,AlgoGenie,Pune,4-6 years,₹15-20 LPA
+Data Scientist,ABC Tech,Chennai,3-5 years,₹20-30 LPA
+DevOps Engineer,NeuralNet Systems,Mumbai,5-7 years,₹8-12 LPA
+Backend Engineer,DataSoft,Bangalore,1-2 years,₹20-30 LPA
+Backend Engineer,CloudWorks,Chennai,4-6 years,₹3-5 LPA
+UI/UX Designer,Innova Labs,Bangalore,1-2 years,₹10-15 LPA
+Java Developer,Visionary Apps,Remote,2-4 years,₹20-30 LPA
+Data Analyst,Web Solutions,Delhi,5-7 years,₹10-15 LPA
+Business Analyst,AlgoGenie,Pune,4-6 years,₹5-8 LPA
+Business Analyst,Web Solutions,Delhi,3-5 years,₹10-15 LPA
+Data Scientist,TechVerse,Remote,7-10 years,₹20-30 LPA
+Python Developer,AlgoGenie,Mumbai,2-4 years,₹8-12 LPA
+DevOps Engineer,NextGen AI,Remote,7-10 years,₹3-5 LPA
+Python Developer,TechCorp,Delhi,4-6 years,₹8-12 LPA
+Python Developer,Innova Labs,Remote,0-1 years,₹6-10 LPA
+Frontend Developer,Reactify,Delhi,1-2 years,₹20-30 LPA
+Project Manager,Bright Future Pvt Ltd,Bangalore,4-6 years,₹6-10 LPA
+Full Stack Developer,NeuralNet Systems,Delhi,5-7 years,₹8-12 LPA
+Business Analyst,TechCorp,Remote,1-2 years,₹10-15 LPA
+Software Tester,TechVerse,Mumbai,5-7 years,₹8-12 LPA
+Java Developer,Reactify,Pune,4-6 years,₹20-30 LPA
+UI/UX Designer,Visionary Apps,Pune,5-7 years,₹8-12 LPA
+Data Analyst,Innova Labs,Mumbai,7-10 years,₹8-12 LPA
+Backend Engineer,CloudWorks,Delhi,5-7 years,₹10-15 LPA
+Software Tester,XYZ Analytics,Remote,2-4 years,₹4-6 LPA
+Software Tester,DataSoft,Mumbai,7-10 years,₹5-8 LPA
+Cloud Architect,AlgoGenie,Mumbai,1-2 years,₹15-20 LPA
+Frontend Developer,AlgoGenie,Chennai,0-1 years,₹8-12 LPA
+Data Analyst,Innova Labs,Mumbai,3-5 years,₹5-8 LPA
+Cloud Architect,Bright Future Pvt Ltd,Chennai,3-5 years,₹8-12 LPA
+Software Tester,Bright Future Pvt Ltd,Remote,5-7 years,₹8-12 LPA
+Data Analyst,TechCorp,Mumbai,5-7 years,₹3-5 LPA
+Frontend Developer,CodeCrafters,Bangalore,4-6 years,₹8-12 LPA
+React Developer,Reactify,Bangalore,2-4 years,₹10-15 LPA
+Frontend Developer,DataSoft,Delhi,3-5 years,₹3-5 LPA
+AI Engineer,NextGen AI,Bangalore,2-4 years,₹5-8 LPA
+Frontend Developer,Web Solutions,Delhi,2-4 years,₹5-8 LPA
+Data Scientist,CloudWorks,Pune,2-4 years,₹3-5 LPA
+Project Manager,CloudWorks,Mumbai,2-4 years,₹10-15 LPA
+Machine Learning Engineer,Bright Future Pvt Ltd,Bangalore,4-6 years,₹6-10 LPA
+Java Developer,ABC Tech,Hyderabad,3-5 years,₹5-8 LPA
+Machine Learning Engineer,Bright Future Pvt Ltd,Delhi,7-10 years,₹3-5 LPA
+Python Developer,CloudWorks,Chennai,7-10 years,₹10-15 LPA
+Python Developer,CodeCrafters,Pune,7-10 years,₹5-8 LPA
+Python Developer,TechCorp,Chennai,5-7 years,₹8-12 LPA
+Business Analyst,Bright Future Pvt Ltd,Remote,1-2 years,₹15-20 LPA
+Project Manager,ABC Tech,Remote,3-5 years,₹20-30 LPA
+Frontend Developer,CloudWorks,Delhi,1-2 years,₹20-30 LPA
+Data Analyst,Innova Labs,Mumbai,5-7 years,₹6-10 LPA
+DevOps Engineer,ABC Tech,Mumbai,7-10 years,₹5-8 LPA
+AI Engineer,NeuralNet Systems,Bangalore,5-7 years,₹3-5 LPA
+AI Engineer,NeuralNet Systems,Hyderabad,3-5 years,₹6-10 LPA
+Backend Engineer,DataSoft,Mumbai,3-5 years,₹6-10 LPA
+Data Analyst,CloudWorks,Delhi,2-4 years,₹5-8 LPA
+React Developer,NeuralNet Systems,Pune,7-10 years,₹8-12 LPA
+Python Developer,ABC Tech,Bangalore,7-10 years,₹5-8 LPA
+Python Developer,TechVerse,Chennai,3-5 years,₹6-10 LPA
+Data Analyst,CloudWorks,Chennai,2-4 years,₹10-15 LPA
+Machine Learning Engineer,Reactify,Mumbai,7-10 years,₹10-15 LPA
+Project Manager,ABC Tech,Hyderabad,1-2 years,₹6-10 LPA
+Java Developer,TechVerse,Delhi,1-2 years,₹4-6 LPA
+DevOps Engineer,AlgoGenie,Chennai,1-2 years,₹10-15 LPA
+Java Developer,Visionary Apps,Remote,3-5 years,₹3-5 LPA
+DevOps Engineer,AlgoGenie,Pune,2-4 years,₹10-15 LPA
+Full Stack Developer,TechCorp,Mumbai,7-10 years,₹10-15 LPA
+Python Developer,Web Solutions,Chennai,2-4 years,₹6-10 LPA
+Project Manager,Visionary Apps,Pune,2-4 years,₹4-6 LPA
+Data Scientist,NextGen AI,Chennai,7-10 years,₹4-6 LPA
+Java Developer,ABC Tech,Hyderabad,2-4 years,₹6-10 LPA
+Cloud Architect,CodeCrafters,Remote,3-5 years,₹8-12 LPA
+Data Analyst,TechVerse,Remote,3-5 years,₹15-20 LPA
+React Developer,TechVerse,Pune,0-1 years,₹3-5 LPA
+Cloud Architect,CloudWorks,Bangalore,3-5 years,₹3-5 LPA
+DevOps Engineer,Bright Future Pvt Ltd,Hyderabad,1-2 years,₹6-10 LPA
+Data Analyst,ABC Tech,Pune,3-5 years,₹10-15 LPA
+UI/UX Designer,NextGen AI,Chennai,1-2 years,₹20-30 LPA
+DevOps Engineer,TechVerse,Remote,1-2 years,₹15-20 LPA
+Machine Learning Engineer,CodeCrafters,Chennai,7-10 years,₹15-20 LPA
+Cloud Architect,DataSoft,Remote,1-2 years,₹20-30 LPA
+Project Manager,NeuralNet Systems,Mumbai,2-4 years,₹8-12 LPA
+Machine Learning Engineer,Web Solutions,Remote,1-2 years,₹15-20 LPA
+Full Stack Developer,CodeCrafters,Delhi,3-5 years,₹10-15 LPA
+Data Analyst,AlgoGenie,Pune,0-1 years,₹5-8 LPA
+UI/UX Designer,Reactify,Delhi,5-7 years,₹8-12 LPA
+Data Analyst,Web Solutions,Pune,3-5 years,₹6-10 LPA
+Data Analyst,NextGen AI,Chennai,5-7 years,₹15-20 LPA
+Full Stack Developer,NeuralNet Systems,Remote,7-10 years,₹4-6 LPA
+Software Tester,Visionary Apps,Chennai,5-7 years,₹20-30 LPA
+Cloud Architect,Innova Labs,Pune,5-7 years,₹10-15 LPA
+React Developer,TechCorp,Pune,0-1 years,₹15-20 LPA
+Frontend Developer,XYZ Analytics,Bangalore,3-5 years,₹20-30 LPA
+Project Manager,Reactify,Mumbai,1-2 years,₹15-20 LPA
+Software Tester,AlgoGenie,Remote,3-5 years,₹15-20 LPA
+Business Analyst,TechCorp,Delhi,3-5 years,₹4-6 LPA
+Business Analyst,NeuralNet Systems,Mumbai,2-4 years,₹5-8 LPA
+UI/UX Designer,DataSoft,Mumbai,4-6 years,₹5-8 LPA
+Python Developer,NeuralNet Systems,Hyderabad,4-6 years,₹5-8 LPA
+Java Developer,Innova Labs,Bangalore,2-4 years,₹10-15 LPA
+Machine Learning Engineer,TechCorp,Mumbai,4-6 years,₹3-5 LPA
+Data Scientist,Reactify,Delhi,3-5 years,₹5-8 LPA
+Full Stack Developer,Web Solutions,Chennai,4-6 years,₹15-20 LPA
+Full Stack Developer,Web Solutions,Pune,3-5 years,₹10-15 LPA
+Software Tester,CodeCrafters,Hyderabad,5-7 years,₹6-10 LPA
+Business Analyst,DataSoft,Mumbai,4-6 years,₹8-12 LPA
+Java Developer,NeuralNet Systems,Pune,7-10 years,₹15-20 LPA
+Software Tester,Web Solutions,Mumbai,2-4 years,₹3-5 LPA
+Project Manager,XYZ Analytics,Delhi,4-6 years,₹4-6 LPA
+Full Stack Developer,CodeCrafters,Hyderabad,2-4 years,₹5-8 LPA
+Frontend Developer,AlgoGenie,Delhi,0-1 years,₹15-20 LPA
+Full Stack Developer,CodeCrafters,Remote,7-10 years,₹15-20 LPA
+Java Developer,TechVerse,Hyderabad,7-10 years,₹10-15 LPA
+AI Engineer,Visionary Apps,Remote,1-2 years,₹20-30 LPA
+Project Manager,ABC Tech,Delhi,7-10 years,₹3-5 LPA
+Business Analyst,ABC Tech,Delhi,0-1 years,₹3-5 LPA
+UI/UX Designer,TechVerse,Chennai,4-6 years,₹10-15 LPA
+Project Manager,Web Solutions,Pune,0-1 years,₹4-6 LPA
+Backend Engineer,NextGen AI,Delhi,0-1 years,₹8-12 LPA
+React Developer,NextGen AI,Hyderabad,0-1 years,₹10-15 LPA
+React Developer,Visionary Apps,Bangalore,1-2 years,₹10-15 LPA
+Business Analyst,ABC Tech,Bangalore,7-10 years,₹8-12 LPA
+Backend Engineer,TechVerse,Remote,4-6 years,₹5-8 LPA
+Java Developer,CodeCrafters,Remote,4-6 years,₹6-10 LPA
+AI Engineer,NeuralNet Systems,Mumbai,3-5 years,₹20-30 LPA
+Business Analyst,AlgoGenie,Bangalore,1-2 years,₹20-30 LPA
+Data Analyst,Innova Labs,Pune,0-1 years,₹3-5 LPA
+Python Developer,CodeCrafters,Remote,5-7 years,₹10-15 LPA
+UI/UX Designer,CodeCrafters,Pune,4-6 years,₹10-15 LPA
+DevOps Engineer,Bright Future Pvt Ltd,Bangalore,4-6 years,₹3-5 LPA
+Full Stack Developer,Reactify,Hyderabad,3-5 years,₹15-20 LPA
+Software Tester,Reactify,Pune,0-1 years,₹6-10 LPA
+UI/UX Designer,Reactify,Delhi,4-6 years,₹8-12 LPA
+Full Stack Developer,ABC Tech,Hyderabad,7-10 years,₹10-15 LPA
+React Developer,CodeCrafters,Remote,5-7 years,₹20-30 LPA
+Data Analyst,Web Solutions,Mumbai,4-6 years,₹20-30 LPA
+Data Analyst,Web Solutions,Chennai,7-10 years,₹3-5 LPA
+UI/UX Designer,Web Solutions,Remote,0-1 years,₹3-5 LPA
+Data Analyst,DataSoft,Delhi,7-10 years,₹15-20 LPA
+Software Tester,Bright Future Pvt Ltd,Delhi,4-6 years,₹4-6 LPA
+AI Engineer,XYZ Analytics,Remote,0-1 years,₹10-15 LPA
+Java Developer,NextGen AI,Bangalore,0-1 years,₹15-20 LPA
+AI Engineer,NeuralNet Systems,Pune,7-10 years,₹6-10 LPA
+Data Scientist,DataSoft,Delhi,4-6 years,₹8-12 LPA
+Data Analyst,DataSoft,Pune,3-5 years,₹6-10 LPA
+Java Developer,CodeCrafters,Delhi,0-1 years,₹5-8 LPA
+Data Analyst,Web Solutions,Delhi,4-6 years,₹5-8 LPA
+Cloud Architect,NextGen AI,Delhi,7-10 years,₹5-8 LPA
+Frontend Developer,TechCorp,Bangalore,3-5 years,₹6-10 LPA
+Machine Learning Engineer,Reactify,Mumbai,0-1 years,₹10-15 LPA
+Backend Engineer,NextGen AI,Remote,3-5 years,₹4-6 LPA
+Python Developer,CodeCrafters,Remote,0-1 years,₹6-10 LPA
+Backend Engineer,Reactify,Remote,2-4 years,₹20-30 LPA
+Machine Learning Engineer,Reactify,Bangalore,3-5 years,₹20-30 LPA
+Project Manager,NeuralNet Systems,Delhi,0-1 years,₹4-6 LPA
+Cloud Architect,AlgoGenie,Mumbai,1-2 years,₹5-8 LPA
+Java Developer,Innova Labs,Bangalore,5-7 years,₹15-20 LPA
+UI/UX Designer,CodeCrafters,Hyderabad,7-10 years,₹10-15 LPA
+Full Stack Developer,NextGen AI,Delhi,0-1 years,₹10-15 LPA
+AI Engineer,Bright Future Pvt Ltd,Bangalore,7-10 years,₹3-5 LPA
+DevOps Engineer,CodeCrafters,Hyderabad,1-2 years,₹4-6 LPA
+DevOps Engineer,NextGen AI,Chennai,3-5 years,₹6-10 LPA
+React Developer,XYZ Analytics,Pune,7-10 years,₹15-20 LPA
+Software Tester,NextGen AI,Mumbai,3-5 years,₹3-5 LPA
+DevOps Engineer,NeuralNet Systems,Mumbai,0-1 years,₹15-20 LPA
+Full Stack Developer,CloudWorks,Chennai,4-6 years,₹10-15 LPA
+Cloud Architect,TechVerse,Delhi,1-2 years,₹3-5 LPA
+Project Manager,Bright Future Pvt Ltd,Remote,7-10 years,₹3-5 LPA
+Frontend Developer,Innova Labs,Remote,2-4 years,₹15-20 LPA
+Data Analyst,TechVerse,Bangalore,7-10 years,₹15-20 LPA
+React Developer,Bright Future Pvt Ltd,Mumbai,1-2 years,₹20-30 LPA
+Frontend Developer,DataSoft,Chennai,3-5 years,₹3-5 LPA
+React Developer,CloudWorks,Chennai,1-2 years,₹4-6 LPA
+Backend Engineer,CodeCrafters,Remote,0-1 years,₹4-6 LPA
+AI Engineer,TechCorp,Delhi,7-10 years,₹3-5 LPA
+Data Analyst,ABC Tech,Mumbai,0-1 years,₹15-20 LPA
+React Developer,Innova Labs,Hyderabad,5-7 years,₹6-10 LPA
+Backend Engineer,CloudWorks,Hyderabad,1-2 years,₹8-12 LPA
+Software Tester,TechVerse,Mumbai,0-1 years,₹5-8 LPA
+Machine Learning Engineer,XYZ Analytics,Remote,1-2 years,₹10-15 LPA
+Python Developer,Reactify,Pune,4-6 years,₹20-30 LPA
+Full Stack Developer,Reactify,Delhi,5-7 years,₹6-10 LPA
+Business Analyst,Reactify,Pune,2-4 years,₹3-5 LPA
+AI Engineer,Reactify,Mumbai,2-4 years,₹4-6 LPA
+Python Developer,Bright Future Pvt Ltd,Mumbai,5-7 years,₹5-8 LPA
+Python Developer,XYZ Analytics,Chennai,5-7 years,₹10-15 LPA
+Python Developer,TechVerse,Hyderabad,2-4 years,₹8-12 LPA
+Business Analyst,CloudWorks,Bangalore,3-5 years,₹5-8 LPA
+Data Scientist,Innova Labs,Chennai,4-6 years,₹20-30 LPA
+Software Tester,XYZ Analytics,Pune,7-10 years,₹15-20 LPA
+React Developer,TechCorp,Mumbai,4-6 years,₹15-20 LPA
+Backend Engineer,NeuralNet Systems,Pune,4-6 years,₹15-20 LPA
+Python Developer,DataSoft,Pune,1-2 years,₹15-20 LPA
+Java Developer,TechCorp,Remote,7-10 years,₹5-8 LPA
+Python Developer,AlgoGenie,Hyderabad,1-2 years,₹8-12 LPA
+Data Analyst,NextGen AI,Hyderabad,3-5 years,₹6-10 LPA
+Frontend Developer,Web Solutions,Mumbai,0-1 years,₹15-20 LPA
+Full Stack Developer,AlgoGenie,Pune,3-5 years,₹15-20 LPA
+Cloud Architect,Reactify,Hyderabad,1-2 years,₹15-20 LPA
+Business Analyst,CloudWorks,Mumbai,4-6 years,₹6-10 LPA
+Backend Engineer,TechCorp,Remote,7-10 years,₹3-5 LPA
+Business Analyst,TechCorp,Mumbai,0-1 years,₹15-20 LPA
+Java Developer,CloudWorks,Chennai,2-4 years,₹5-8 LPA
+AI Engineer,Web Solutions,Pune,5-7 years,₹3-5 LPA
+Frontend Developer,AlgoGenie,Mumbai,3-5 years,₹10-15 LPA
+Data Scientist,CodeCrafters,Bangalore,5-7 years,₹3-5 LPA
+AI Engineer,Web Solutions,Delhi,1-2 years,₹5-8 LPA
+Data Analyst,AlgoGenie,Pune,0-1 years,₹10-15 LPA
+Data Analyst,CloudWorks,Bangalore,1-2 years,₹15-20 LPA
+Project Manager,TechVerse,Mumbai,5-7 years,₹15-20 LPA
+AI Engineer,ABC Tech,Pune,3-5 years,₹10-15 LPA
+Data Analyst,XYZ Analytics,Chennai,7-10 years,₹4-6 LPA
+Full Stack Developer,Innova Labs,Chennai,1-2 years,₹10-15 LPA
+Business Analyst,TechVerse,Remote,3-5 years,₹5-8 LPA
+UI/UX Designer,XYZ Analytics,Mumbai,0-1 years,₹10-15 LPA
+UI/UX Designer,Reactify,Bangalore,3-5 years,₹10-15 LPA
+React Developer,TechCorp,Hyderabad,4-6 years,₹3-5 LPA
+Data Scientist,TechVerse,Remote,4-6 years,₹8-12 LPA
+Business Analyst,DataSoft,Hyderabad,0-1 years,₹20-30 LPA
+Cloud Architect,AlgoGenie,Chennai,7-10 years,₹20-30 LPA
+AI Engineer,Bright Future Pvt Ltd,Hyderabad,7-10 years,₹3-5 LPA
+AI Engineer,Reactify,Remote,2-4 years,₹3-5 LPA
+Backend Engineer,Reactify,Delhi,0-1 years,₹5-8 LPA
+Machine Learning Engineer,TechVerse,Bangalore,0-1 years,₹6-10 LPA
+Java Developer,CloudWorks,Delhi,2-4 years,₹15-20 LPA
+AI Engineer,NeuralNet Systems,Mumbai,1-2 years,₹6-10 LPA
+Data Scientist,Innova Labs,Mumbai,2-4 years,₹6-10 LPA
+Backend Engineer,Visionary Apps,Pune,4-6 years,₹4-6 LPA
+Data Analyst,XYZ Analytics,Chennai,2-4 years,₹6-10 LPA
+Business Analyst,Bright Future Pvt Ltd,Delhi,1-2 years,₹8-12 LPA
+UI/UX Designer,Innova Labs,Mumbai,5-7 years,₹10-15 LPA
+DevOps Engineer,Web Solutions,Pune,1-2 years,₹6-10 LPA
+Cloud Architect,XYZ Analytics,Remote,5-7 years,₹4-6 LPA
+Software Tester,Visionary Apps,Hyderabad,1-2 years,₹3-5 LPA
+Frontend Developer,CodeCrafters,Pune,7-10 years,₹4-6 LPA
+Business Analyst,TechCorp,Bangalore,2-4 years,₹20-30 LPA
+DevOps Engineer,TechCorp,Pune,4-6 years,₹8-12 LPA
+Cloud Architect,Bright Future Pvt Ltd,Hyderabad,5-7 years,₹5-8 LPA
+Java Developer,AlgoGenie,Hyderabad,7-10 years,₹8-12 LPA
+Cloud Architect,NextGen AI,Delhi,1-2 years,₹4-6 LPA
+Software Tester,NeuralNet Systems,Delhi,5-7 years,₹10-15 LPA
+Business Analyst,Bright Future Pvt Ltd,Bangalore,3-5 years,₹15-20 LPA
+Frontend Developer,DataSoft,Chennai,0-1 years,₹20-30 LPA
+Business Analyst,Innova Labs,Bangalore,5-7 years,₹20-30 LPA
+Backend Engineer,Web Solutions,Remote,7-10 years,₹10-15 LPA
+Frontend Developer,Bright Future Pvt Ltd,Mumbai,2-4 years,₹10-15 LPA
+Cloud Architect,NeuralNet Systems,Remote,0-1 years,₹8-12 LPA
+Data Analyst,CloudWorks,Bangalore,5-7 years,₹6-10 LPA
+Software Tester,AlgoGenie,Hyderabad,5-7 years,₹4-6 LPA
+Frontend Developer,ABC Tech,Remote,2-4 years,₹4-6 LPA
+Business Analyst,CodeCrafters,Pune,0-1 years,₹15-20 LPA
+Cloud Architect,Innova Labs,Hyderabad,1-2 years,₹15-20 LPA
+DevOps Engineer,Web Solutions,Delhi,4-6 years,₹3-5 LPA
+Machine Learning Engineer,ABC Tech,Pune,4-6 years,₹15-20 LPA
+DevOps Engineer,AlgoGenie,Bangalore,0-1 years,₹4-6 LPA
+Data Scientist,CodeCrafters,Mumbai,5-7 years,₹4-6 LPA
+Java Developer,AlgoGenie,Remote,2-4 years,₹3-5 LPA
+Data Analyst,NextGen AI,Hyderabad,1-2 years,₹3-5 LPA
+UI/UX Designer,NextGen AI,Mumbai,7-10 years,₹5-8 LPA
+Software Tester,DataSoft,Mumbai,2-4 years,₹8-12 LPA
+Python Developer,Reactify,Pune,0-1 years,₹6-10 LPA
+Software Tester,NextGen AI,Pune,1-2 years,₹15-20 LPA
+Frontend Developer,CodeCrafters,Chennai,0-1 years,₹20-30 LPA
+AI Engineer,ABC Tech,Delhi,1-2 years,₹8-12 LPA
+AI Engineer,NeuralNet Systems,Hyderabad,1-2 years,₹10-15 LPA
+Cloud Architect,Bright Future Pvt Ltd,Delhi,0-1 years,₹15-20 LPA
+Machine Learning Engineer,TechVerse,Mumbai,0-1 years,₹4-6 LPA
+AI Engineer,Innova Labs,Hyderabad,3-5 years,₹5-8 LPA
+DevOps Engineer,DataSoft,Delhi,5-7 years,₹3-5 LPA
+Software Tester,NextGen AI,Delhi,4-6 years,₹5-8 LPA
+UI/UX Designer,ABC Tech,Hyderabad,7-10 years,₹20-30 LPA
+Machine Learning Engineer,Reactify,Hyderabad,5-7 years,₹20-30 LPA
+Backend Engineer,TechCorp,Bangalore,5-7 years,₹15-20 LPA
+Software Tester,AlgoGenie,Remote,5-7 years,₹15-20 LPA
+UI/UX Designer,CodeCrafters,Delhi,4-6 years,₹5-8 LPA
+Java Developer,TechVerse,Delhi,4-6 years,₹4-6 LPA
+Data Analyst,Visionary Apps,Mumbai,2-4 years,₹5-8 LPA
+Python Developer,TechCorp,Chennai,0-1 years,₹5-8 LPA
+Business Analyst,CloudWorks,Bangalore,3-5 years,₹20-30 LPA
+Business Analyst,ABC Tech,Delhi,2-4 years,₹4-6 LPA
+Java Developer,CloudWorks,Mumbai,7-10 years,₹4-6 LPA
+DevOps Engineer,AlgoGenie,Hyderabad,0-1 years,₹15-20 LPA
+DevOps Engineer,ABC Tech,Remote,5-7 years,₹4-6 LPA
+Cloud Architect,ABC Tech,Remote,4-6 years,₹4-6 LPA
+Backend Engineer,Web Solutions,Hyderabad,0-1 years,₹6-10 LPA
+Cloud Architect,Innova Labs,Mumbai,3-5 years,₹8-12 LPA
+DevOps Engineer,CloudWorks,Chennai,2-4 years,₹10-15 LPA
+Data Analyst,CodeCrafters,Chennai,7-10 years,₹4-6 LPA
+AI Engineer,DataSoft,Delhi,7-10 years,₹5-8 LPA
+Data Analyst,TechCorp,Delhi,5-7 years,₹3-5 LPA
+Data Analyst,NeuralNet Systems,Delhi,5-7 years,₹5-8 LPA
+Data Analyst,AlgoGenie,Mumbai,0-1 years,₹10-15 LPA
+Project Manager,TechVerse,Pune,3-5 years,₹10-15 LPA
+UI/UX Designer,CodeCrafters,Hyderabad,0-1 years,₹20-30 LPA
+Backend Engineer,NextGen AI,Remote,5-7 years,₹8-12 LPA
+Software Tester,Innova Labs,Pune,2-4 years,₹5-8 LPA
+UI/UX Designer,Bright Future Pvt Ltd,Chennai,4-6 years,₹3-5 LPA
+Full Stack Developer,Reactify,Mumbai,7-10 years,₹5-8 LPA
+Backend Engineer,Innova Labs,Delhi,5-7 years,₹20-30 LPA
+UI/UX Designer,TechCorp,Pune,3-5 years,₹6-10 LPA
+Frontend Developer,Bright Future Pvt Ltd,Delhi,3-5 years,₹15-20 LPA
+Project Manager,NextGen AI,Pune,1-2 years,₹20-30 LPA
+Backend Engineer,TechVerse,Bangalore,3-5 years,₹10-15 LPA
+Data Scientist,NeuralNet Systems,Pune,4-6 years,₹4-6 LPA
+Machine Learning Engineer,TechVerse,Chennai,7-10 years,₹10-15 LPA
+Business Analyst,AlgoGenie,Bangalore,2-4 years,₹5-8 LPA
+Machine Learning Engineer,Reactify,Remote,7-10 years,₹20-30 LPA
+Data Analyst,CodeCrafters,Delhi,5-7 years,₹20-30 LPA
+Data Scientist,NeuralNet Systems,Delhi,3-5 years,₹3-5 LPA
+Software Tester,NeuralNet Systems,Hyderabad,5-7 years,₹6-10 LPA
+Full Stack Developer,CloudWorks,Pune,4-6 years,₹5-8 LPA
+React Developer,TechCorp,Hyderabad,0-1 years,₹8-12 LPA
+Python Developer,TechCorp,Mumbai,2-4 years,₹5-8 LPA
+Java Developer,ABC Tech,Remote,4-6 years,₹15-20 LPA
+DevOps Engineer,TechVerse,Mumbai,1-2 years,₹4-6 LPA
+Frontend Developer,XYZ Analytics,Mumbai,7-10 years,₹10-15 LPA
+Data Scientist,Reactify,Remote,4-6 years,₹4-6 LPA
+DevOps Engineer,ABC Tech,Pune,5-7 years,₹4-6 LPA
+Python Developer,XYZ Analytics,Pune,1-2 years,₹6-10 LPA
+Frontend Developer,Reactify,Delhi,3-5 years,₹15-20 LPA
+Cloud Architect,Innova Labs,Remote,7-10 years,₹6-10 LPA
+Software Tester,CodeCrafters,Pune,1-2 years,₹8-12 LPA
+Data Scientist,ABC Tech,Chennai,1-2 years,₹10-15 LPA
+Project Manager,CodeCrafters,Hyderabad,0-1 years,₹4-6 LPA
+Machine Learning Engineer,Innova Labs,Mumbai,0-1 years,₹8-12 LPA
+Data Scientist,DataSoft,Pune,3-5 years,₹6-10 LPA
+AI Engineer,Web Solutions,Delhi,4-6 years,₹15-20 LPA
+Machine Learning Engineer,Web Solutions,Delhi,3-5 years,₹8-12 LPA
+UI/UX Designer,XYZ Analytics,Mumbai,3-5 years,₹4-6 LPA
+React Developer,AlgoGenie,Chennai,5-7 years,₹6-10 LPA
+Python Developer,ABC Tech,Remote,7-10 years,₹10-15 LPA
+Python Developer,TechCorp,Delhi,4-6 years,₹15-20 LPA
+Data Analyst,XYZ Analytics,Bangalore,1-2 years,₹6-10 LPA
+Full Stack Developer,TechVerse,Bangalore,7-10 years,₹8-12 LPA
+Java Developer,NextGen AI,Chennai,4-6 years,₹3-5 LPA
+DevOps Engineer,CodeCrafters,Pune,3-5 years,₹8-12 LPA
+Backend Engineer,XYZ Analytics,Mumbai,2-4 years,₹5-8 LPA
+Project Manager,Innova Labs,Hyderabad,3-5 years,₹8-12 LPA
+Java Developer,ABC Tech,Delhi,7-10 years,₹8-12 LPA
+Software Tester,NextGen AI,Mumbai,0-1 years,₹20-30 LPA
+Full Stack Developer,CodeCrafters,Remote,7-10 years,₹3-5 LPA
+Business Analyst,Reactify,Remote,0-1 years,₹15-20 LPA
+Machine Learning Engineer,Innova Labs,Hyderabad,1-2 years,₹6-10 LPA
+Full Stack Developer,NextGen AI,Pune,3-5 years,₹5-8 LPA
+Backend Engineer,CloudWorks,Delhi,1-2 years,₹8-12 LPA
+UI/UX Designer,TechVerse,Remote,5-7 years,₹4-6 LPA
+React Developer,Visionary Apps,Chennai,2-4 years,₹6-10 LPA
+Data Analyst,Web Solutions,Delhi,7-10 years,₹10-15 LPA
+Backend Engineer,Visionary Apps,Bangalore,5-7 years,₹6-10 LPA
+Business Analyst,DataSoft,Pune,1-2 years,₹6-10 LPA
+Project Manager,Reactify,Bangalore,5-7 years,₹3-5 LPA
+UI/UX Designer,TechCorp,Hyderabad,0-1 years,₹8-12 LPA
+Software Tester,NeuralNet Systems,Bangalore,7-10 years,₹3-5 LPA
+Full Stack Developer,NextGen AI,Remote,2-4 years,₹15-20 LPA
+Data Analyst,NextGen AI,Delhi,3-5 years,₹3-5 LPA
+Full Stack Developer,Bright Future Pvt Ltd,Mumbai,4-6 years,₹8-12 LPA
+AI Engineer,TechVerse,Pune,2-4 years,₹6-10 LPA
+Data Analyst,ABC Tech,Hyderabad,5-7 years,₹5-8 LPA
+Software Tester,CloudWorks,Hyderabad,1-2 years,₹5-8 LPA
+Backend Engineer,TechVerse,Delhi,0-1 years,₹20-30 LPA
+Cloud Architect,NextGen AI,Delhi,2-4 years,₹4-6 LPA
+Software Tester,Bright Future Pvt Ltd,Bangalore,4-6 years,₹5-8 LPA
+Business Analyst,XYZ Analytics,Delhi,7-10 years,₹5-8 LPA
+Business Analyst,TechVerse,Mumbai,1-2 years,₹4-6 LPA
+Software Tester,CloudWorks,Pune,0-1 years,₹4-6 LPA
+Backend Engineer,Visionary Apps,Chennai,7-10 years,₹4-6 LPA
+Data Analyst,TechCorp,Bangalore,1-2 years,₹8-12 LPA
+Cloud Architect,Visionary Apps,Hyderabad,4-6 years,₹6-10 LPA
+Data Scientist,NeuralNet Systems,Chennai,7-10 years,₹5-8 LPA
+Python Developer,Reactify,Remote,3-5 years,₹4-6 LPA
+DevOps Engineer,Reactify,Pune,7-10 years,₹8-12 LPA
+Cloud Architect,Reactify,Remote,5-7 years,₹3-5 LPA
+React Developer,NeuralNet Systems,Bangalore,2-4 years,₹6-10 LPA
+Machine Learning Engineer,Innova Labs,Hyderabad,1-2 years,₹6-10 LPA
+Business Analyst,XYZ Analytics,Bangalore,5-7 years,₹20-30 LPA
+AI Engineer,TechVerse,Delhi,5-7 years,₹6-10 LPA
+Data Analyst,XYZ Analytics,Mumbai,2-4 years,₹6-10 LPA
+React Developer,Visionary Apps,Chennai,4-6 years,₹3-5 LPA
+Frontend Developer,Web Solutions,Mumbai,4-6 years,₹20-30 LPA
+Business Analyst,Bright Future Pvt Ltd,Hyderabad,0-1 years,₹20-30 LPA
+DevOps Engineer,AlgoGenie,Chennai,2-4 years,₹3-5 LPA
+Machine Learning Engineer,TechCorp,Remote,2-4 years,₹4-6 LPA
+Machine Learning Engineer,XYZ Analytics,Bangalore,3-5 years,₹15-20 LPA
+Full Stack Developer,Web Solutions,Mumbai,7-10 years,₹15-20 LPA
+Data Scientist,TechVerse,Mumbai,4-6 years,₹4-6 LPA
+Machine Learning Engineer,AlgoGenie,Hyderabad,4-6 years,₹4-6 LPA
+UI/UX Designer,NextGen AI,Remote,0-1 years,₹8-12 LPA
+Cloud Architect,DataSoft,Hyderabad,2-4 years,₹3-5 LPA
+Data Analyst,ABC Tech,Bangalore,5-7 years,₹20-30 LPA
+Cloud Architect,Visionary Apps,Pune,5-7 years,₹4-6 LPA
+Data Scientist,NextGen AI,Hyderabad,1-2 years,₹6-10 LPA
+Python Developer,ABC Tech,Chennai,4-6 years,₹10-15 LPA
+Python Developer,CodeCrafters,Remote,7-10 years,₹10-15 LPA
+Python Developer,Web Solutions,Pune,3-5 years,₹6-10 LPA
+DevOps Engineer,Innova Labs,Bangalore,3-5 years,₹10-15 LPA
+Full Stack Developer,Visionary Apps,Pune,0-1 years,₹10-15 LPA
+UI/UX Designer,Reactify,Delhi,4-6 years,₹8-12 LPA
+Frontend Developer,TechCorp,Chennai,1-2 years,₹15-20 LPA
+AI Engineer,CodeCrafters,Mumbai,2-4 years,₹4-6 LPA
+React Developer,CodeCrafters,Bangalore,3-5 years,₹8-12 LPA
+Frontend Developer,CodeCrafters,Delhi,4-6 years,₹8-12 LPA
+Cloud Architect,XYZ Analytics,Remote,4-6 years,₹20-30 LPA
+React Developer,XYZ Analytics,Bangalore,5-7 years,₹10-15 LPA
+Machine Learning Engineer,CloudWorks,Delhi,2-4 years,₹10-15 LPA
+UI/UX Designer,Web Solutions,Delhi,5-7 years,₹6-10 LPA
+Project Manager,Innova Labs,Delhi,4-6 years,₹8-12 LPA
+React Developer,NeuralNet Systems,Delhi,0-1 years,₹15-20 LPA
+Python Developer,Reactify,Hyderabad,2-4 years,₹6-10 LPA
+Data Analyst,Bright Future Pvt Ltd,Chennai,4-6 years,₹15-20 LPA
+Backend Engineer,NextGen AI,Hyderabad,7-10 years,₹15-20 LPA
+Backend Engineer,Visionary Apps,Pune,4-6 years,₹10-15 LPA
+Business Analyst,Visionary Apps,Hyderabad,7-10 years,₹3-5 LPA
+Frontend Developer,CloudWorks,Delhi,7-10 years,₹20-30 LPA
+UI/UX Designer,TechVerse,Hyderabad,4-6 years,₹4-6 LPA
+Machine Learning Engineer,ABC Tech,Hyderabad,0-1 years,₹8-12 LPA
+Backend Engineer,AlgoGenie,Hyderabad,0-1 years,₹6-10 LPA
+Frontend Developer,XYZ Analytics,Hyderabad,0-1 years,₹15-20 LPA
+DevOps Engineer,XYZ Analytics,Chennai,7-10 years,₹5-8 LPA
+Project Manager,TechCorp,Mumbai,5-7 years,₹15-20 LPA
+Business Analyst,Innova Labs,Chennai,1-2 years,₹5-8 LPA
+DevOps Engineer,CloudWorks,Remote,2-4 years,₹4-6 LPA
+Business Analyst,Visionary Apps,Remote,4-6 years,₹8-12 LPA
+Software Tester,Innova Labs,Chennai,5-7 years,₹5-8 LPA
+Machine Learning Engineer,ABC Tech,Delhi,2-4 years,₹10-15 LPA
+Data Scientist,Innova Labs,Hyderabad,1-2 years,₹6-10 LPA
+React Developer,TechCorp,Delhi,0-1 years,₹3-5 LPA
+Frontend Developer,TechCorp,Mumbai,2-4 years,₹20-30 LPA
+Data Analyst,Visionary Apps,Bangalore,7-10 years,₹5-8 LPA
+AI Engineer,TechVerse,Hyderabad,5-7 years,₹8-12 LPA
+Python Developer,Bright Future Pvt Ltd,Delhi,0-1 years,₹20-30 LPA
+AI Engineer,CloudWorks,Bangalore,2-4 years,₹3-5 LPA
+Data Scientist,Innova Labs,Mumbai,1-2 years,₹20-30 LPA
+Backend Engineer,Visionary Apps,Mumbai,0-1 years,₹6-10 LPA
+Frontend Developer,Innova Labs,Mumbai,4-6 years,₹3-5 LPA
+Data Scientist,NextGen AI,Pune,2-4 years,₹6-10 LPA
+AI Engineer,CloudWorks,Remote,4-6 years,₹15-20 LPA
+Data Analyst,NextGen AI,Pune,1-2 years,₹20-30 LPA
+Data Scientist,CodeCrafters,Chennai,7-10 years,₹5-8 LPA
+Business Analyst,TechCorp,Hyderabad,4-6 years,₹5-8 LPA
+Business Analyst,CodeCrafters,Remote,7-10 years,₹4-6 LPA
+Full Stack Developer,TechCorp,Mumbai,0-1 years,₹3-5 LPA
+DevOps Engineer,NeuralNet Systems,Chennai,2-4 years,₹15-20 LPA
+DevOps Engineer,Reactify,Pune,0-1 years,₹5-8 LPA
+Business Analyst,Visionary Apps,Mumbai,0-1 years,₹6-10 LPA
+Python Developer,TechCorp,Hyderabad,1-2 years,₹8-12 LPA
+React Developer,CloudWorks,Bangalore,7-10 years,₹6-10 LPA
+Data Scientist,Web Solutions,Remote,2-4 years,₹20-30 LPA
+Data Scientist,CodeCrafters,Delhi,5-7 years,₹3-5 LPA
+Project Manager,Web Solutions,Pune,4-6 years,₹4-6 LPA
+Software Tester,NextGen AI,Remote,5-7 years,₹3-5 LPA
+React Developer,TechVerse,Delhi,3-5 years,₹10-15 LPA
+Data Analyst,TechVerse,Remote,0-1 years,₹3-5 LPA
+Cloud Architect,CodeCrafters,Pune,2-4 years,₹20-30 LPA
+Data Scientist,XYZ Analytics,Mumbai,5-7 years,₹5-8 LPA
+Software Tester,TechVerse,Remote,3-5 years,₹6-10 LPA
+Cloud Architect,Web Solutions,Remote,4-6 years,₹8-12 LPA
+Project Manager,TechVerse,Delhi,0-1 years,₹20-30 LPA
+UI/UX Designer,Visionary Apps,Delhi,7-10 years,₹8-12 LPA
+Java Developer,XYZ Analytics,Mumbai,1-2 years,₹20-30 LPA
+Data Analyst,CodeCrafters,Hyderabad,3-5 years,₹6-10 LPA
+Cloud Architect,CloudWorks,Pune,5-7 years,₹3-5 LPA
+Business Analyst,Bright Future Pvt Ltd,Chennai,2-4 years,₹15-20 LPA
+Data Scientist,Bright Future Pvt Ltd,Delhi,2-4 years,₹5-8 LPA
+React Developer,AlgoGenie,Hyderabad,1-2 years,₹15-20 LPA
+DevOps Engineer,DataSoft,Bangalore,7-10 years,₹4-6 LPA
+Cloud Architect,Visionary Apps,Hyderabad,4-6 years,₹3-5 LPA
+Machine Learning Engineer,Web Solutions,Delhi,1-2 years,₹10-15 LPA
+Backend Engineer,CodeCrafters,Mumbai,4-6 years,₹20-30 LPA
+Data Analyst,Reactify,Hyderabad,4-6 years,₹20-30 LPA
+Data Analyst,Visionary Apps,Bangalore,3-5 years,₹10-15 LPA
+Full Stack Developer,CloudWorks,Delhi,7-10 years,₹10-15 LPA
+DevOps Engineer,CloudWorks,Hyderabad,5-7 years,₹4-6 LPA
+Backend Engineer,XYZ Analytics,Hyderabad,3-5 years,₹20-30 LPA
+Project Manager,TechVerse,Pune,3-5 years,₹8-12 LPA
+AI Engineer,Web Solutions,Pune,2-4 years,₹5-8 LPA
+Data Analyst,TechVerse,Pune,4-6 years,₹3-5 LPA
+Project Manager,Innova Labs,Delhi,0-1 years,₹5-8 LPA
+UI/UX Designer,ABC Tech,Mumbai,2-4 years,₹3-5 LPA
+Frontend Developer,DataSoft,Remote,5-7 years,₹3-5 LPA
+UI/UX Designer,TechVerse,Chennai,3-5 years,₹5-8 LPA
+Backend Engineer,Innova Labs,Hyderabad,0-1 years,₹8-12 LPA
+UI/UX Designer,Visionary Apps,Mumbai,3-5 years,₹15-20 LPA
+Project Manager,TechVerse,Delhi,2-4 years,₹8-12 LPA
+React Developer,AlgoGenie,Delhi,5-7 years,₹15-20 LPA
+Backend Engineer,Bright Future Pvt Ltd,Bangalore,0-1 years,₹20-30 LPA
+Java Developer,AlgoGenie,Remote,2-4 years,₹4-6 LPA
+Project Manager,XYZ Analytics,Bangalore,4-6 years,₹3-5 LPA
+Backend Engineer,CodeCrafters,Remote,1-2 years,₹6-10 LPA
+AI Engineer,Visionary Apps,Remote,2-4 years,₹8-12 LPA
+DevOps Engineer,ABC Tech,Bangalore,1-2 years,₹3-5 LPA
+Python Developer,AlgoGenie,Bangalore,7-10 years,₹6-10 LPA
+Machine Learning Engineer,AlgoGenie,Pune,7-10 years,₹10-15 LPA
+UI/UX Designer,CodeCrafters,Delhi,1-2 years,₹15-20 LPA
+Full Stack Developer,ABC Tech,Remote,7-10 years,₹15-20 LPA
+Project Manager,Innova Labs,Hyderabad,0-1 years,₹4-6 LPA
+AI Engineer,TechCorp,Remote,4-6 years,₹5-8 LPA
+Cloud Architect,Visionary Apps,Delhi,7-10 years,₹6-10 LPA
+Java Developer,Web Solutions,Bangalore,3-5 years,₹20-30 LPA
+Cloud Architect,Web Solutions,Mumbai,2-4 years,₹20-30 LPA
+Software Tester,Innova Labs,Bangalore,3-5 years,₹8-12 LPA
+UI/UX Designer,ABC Tech,Remote,5-7 years,₹5-8 LPA
+Java Developer,Innova Labs,Delhi,2-4 years,₹15-20 LPA
+Project Manager,NeuralNet Systems,Pune,3-5 years,₹6-10 LPA
+React Developer,Reactify,Mumbai,5-7 years,₹15-20 LPA
+AI Engineer,AlgoGenie,Mumbai,7-10 years,₹10-15 LPA
+Machine Learning Engineer,ABC Tech,Remote,2-4 years,₹8-12 LPA
+Full Stack Developer,NeuralNet Systems,Hyderabad,1-2 years,₹3-5 LPA
+Full Stack Developer,CloudWorks,Delhi,3-5 years,₹20-30 LPA
+Cloud Architect,CloudWorks,Pune,0-1 years,₹8-12 LPA
+Business Analyst,TechCorp,Bangalore,0-1 years,₹8-12 LPA
+Java Developer,XYZ Analytics,Delhi,1-2 years,₹20-30 LPA
+Machine Learning Engineer,DataSoft,Chennai,5-7 years,₹10-15 LPA
+Full Stack Developer,Innova Labs,Mumbai,7-10 years,₹6-10 LPA
+Software Tester,XYZ Analytics,Bangalore,3-5 years,₹20-30 LPA
+Data Analyst,Visionary Apps,Hyderabad,2-4 years,₹20-30 LPA
+Java Developer,Reactify,Hyderabad,0-1 years,₹4-6 LPA
+Data Analyst,Visionary Apps,Delhi,0-1 years,₹5-8 LPA
+Software Tester,CloudWorks,Delhi,0-1 years,₹6-10 LPA
+DevOps Engineer,TechCorp,Mumbai,5-7 years,₹6-10 LPA
+Backend Engineer,Web Solutions,Chennai,1-2 years,₹15-20 LPA
+AI Engineer,NextGen AI,Chennai,1-2 years,₹6-10 LPA
+Machine Learning Engineer,XYZ Analytics,Bangalore,5-7 years,₹4-6 LPA
+Machine Learning Engineer,AlgoGenie,Bangalore,4-6 years,₹20-30 LPA
+Frontend Developer,Web Solutions,Pune,5-7 years,₹10-15 LPA
+Backend Engineer,TechVerse,Bangalore,4-6 years,₹4-6 LPA
+Data Analyst,TechVerse,Delhi,4-6 years,₹3-5 LPA
+UI/UX Designer,XYZ Analytics,Chennai,0-1 years,₹6-10 LPA
+Full Stack Developer,Innova Labs,Bangalore,1-2 years,₹5-8 LPA
+Cloud Architect,Reactify,Chennai,1-2 years,₹10-15 LPA
+Full Stack Developer,Reactify,Remote,7-10 years,₹15-20 LPA
+DevOps Engineer,NeuralNet Systems,Chennai,4-6 years,₹3-5 LPA
+Full Stack Developer,DataSoft,Mumbai,4-6 years,₹4-6 LPA
+Full Stack Developer,TechCorp,Pune,2-4 years,₹5-8 LPA
+Cloud Architect,Reactify,Bangalore,4-6 years,₹3-5 LPA
+Data Scientist,AlgoGenie,Pune,2-4 years,₹5-8 LPA
+Python Developer,CloudWorks,Mumbai,7-10 years,₹3-5 LPA
+Business Analyst,NextGen AI,Chennai,0-1 years,₹20-30 LPA
+Java Developer,ABC Tech,Bangalore,2-4 years,₹5-8 LPA
+Full Stack Developer,CloudWorks,Hyderabad,5-7 years,₹4-6 LPA
+AI Engineer,NextGen AI,Delhi,3-5 years,₹3-5 LPA
+Backend Engineer,Web Solutions,Bangalore,4-6 years,₹4-6 LPA
+Data Analyst,TechCorp,Remote,1-2 years,₹15-20 LPA
+Cloud Architect,Web Solutions,Pune,1-2 years,₹6-10 LPA
+Data Scientist,DataSoft,Bangalore,0-1 years,₹20-30 LPA
+Business Analyst,XYZ Analytics,Bangalore,7-10 years,₹4-6 LPA
+UI/UX Designer,AlgoGenie,Chennai,3-5 years,₹6-10 LPA
+AI Engineer,XYZ Analytics,Chennai,4-6 years,₹10-15 LPA
+Java Developer,Bright Future Pvt Ltd,Pune,1-2 years,₹20-30 LPA
+Backend Engineer,Web Solutions,Bangalore,2-4 years,₹10-15 LPA
+Project Manager,Innova Labs,Hyderabad,4-6 years,₹10-15 LPA
+Data Analyst,ABC Tech,Remote,7-10 years,₹10-15 LPA
+React Developer,NextGen AI,Pune,2-4 years,₹10-15 LPA
+React Developer,NeuralNet Systems,Pune,0-1 years,₹5-8 LPA
+Backend Engineer,XYZ Analytics,Remote,5-7 years,₹10-15 LPA
+Backend Engineer,DataSoft,Chennai,3-5 years,₹20-30 LPA
+UI/UX Designer,Web Solutions,Bangalore,0-1 years,₹6-10 LPA
+Project Manager,Visionary Apps,Pune,4-6 years,₹8-12 LPA
+Python Developer,NextGen AI,Mumbai,7-10 years,₹8-12 LPA
+React Developer,TechCorp,Pune,4-6 years,₹15-20 LPA
+Data Scientist,Reactify,Chennai,5-7 years,₹3-5 LPA
+Project Manager,CodeCrafters,Chennai,1-2 years,₹10-15 LPA
+Business Analyst,Bright Future Pvt Ltd,Hyderabad,2-4 years,₹5-8 LPA
+Project Manager,NextGen AI,Bangalore,5-7 years,₹20-30 LPA
+DevOps Engineer,Web Solutions,Remote,3-5 years,₹4-6 LPA
+DevOps Engineer,Bright Future Pvt Ltd,Mumbai,0-1 years,₹20-30 LPA
+AI Engineer,TechVerse,Chennai,5-7 years,₹4-6 LPA
+Backend Engineer,TechVerse,Chennai,2-4 years,₹4-6 LPA
+Machine Learning Engineer,AlgoGenie,Pune,3-5 years,₹20-30 LPA
+DevOps Engineer,DataSoft,Delhi,3-5 years,₹8-12 LPA
+DevOps Engineer,Innova Labs,Chennai,5-7 years,₹10-15 LPA
+Full Stack Developer,Innova Labs,Bangalore,2-4 years,₹15-20 LPA
+Project Manager,ABC Tech,Mumbai,0-1 years,₹10-15 LPA
+Frontend Developer,Bright Future Pvt Ltd,Mumbai,1-2 years,₹8-12 LPA
+Data Scientist,TechVerse,Remote,2-4 years,₹6-10 LPA
+Machine Learning Engineer,Innova Labs,Pune,1-2 years,₹3-5 LPA
+UI/UX Designer,NextGen AI,Hyderabad,1-2 years,₹6-10 LPA
+UI/UX Designer,CloudWorks,Remote,3-5 years,₹20-30 LPA
+Machine Learning Engineer,XYZ Analytics,Chennai,0-1 years,₹15-20 LPA
+DevOps Engineer,XYZ Analytics,Mumbai,2-4 years,₹10-15 LPA
+Java Developer,NeuralNet Systems,Remote,1-2 years,₹4-6 LPA
+React Developer,ABC Tech,Delhi,2-4 years,₹10-15 LPA
+Full Stack Developer,DataSoft,Bangalore,2-4 years,₹4-6 LPA
+Business Analyst,NextGen AI,Hyderabad,5-7 years,₹4-6 LPA
+Software Tester,Visionary Apps,Remote,5-7 years,₹5-8 LPA
+UI/UX Designer,Innova Labs,Remote,4-6 years,₹8-12 LPA
+UI/UX Designer,Bright Future Pvt Ltd,Mumbai,5-7 years,₹3-5 LPA
+Cloud Architect,DataSoft,Delhi,4-6 years,₹4-6 LPA
+Python Developer,Innova Labs,Hyderabad,7-10 years,₹10-15 LPA
+Backend Engineer,ABC Tech,Hyderabad,5-7 years,₹6-10 LPA
+Project Manager,Visionary Apps,Hyderabad,3-5 years,₹4-6 LPA
+Data Scientist,AlgoGenie,Bangalore,2-4 years,₹4-6 LPA
+Full Stack Developer,AlgoGenie,Bangalore,2-4 years,₹15-20 LPA
+DevOps Engineer,ABC Tech,Remote,7-10 years,₹20-30 LPA
+Software Tester,TechCorp,Hyderabad,3-5 years,₹8-12 LPA
+Business Analyst,Visionary Apps,Hyderabad,5-7 years,₹10-15 LPA
+DevOps Engineer,Reactify,Mumbai,2-4 years,₹3-5 LPA
+Data Scientist,Bright Future Pvt Ltd,Pune,2-4 years,₹3-5 LPA
+Machine Learning Engineer,Bright Future Pvt Ltd,Delhi,3-5 years,₹4-6 LPA
+Project Manager,XYZ Analytics,Remote,3-5 years,₹5-8 LPA
+UI/UX Designer,ABC Tech,Remote,0-1 years,₹3-5 LPA
+Java Developer,XYZ Analytics,Delhi,7-10 years,₹15-20 LPA
+Project Manager,CodeCrafters,Chennai,3-5 years,₹4-6 LPA
+Data Analyst,TechVerse,Delhi,7-10 years,₹15-20 LPA
+Java Developer,Innova Labs,Mumbai,2-4 years,₹10-15 LPA
+Software Tester,Web Solutions,Bangalore,7-10 years,₹4-6 LPA
+UI/UX Designer,Visionary Apps,Remote,0-1 years,₹15-20 LPA
+Data Analyst,CloudWorks,Remote,7-10 years,₹8-12 LPA
+Project Manager,AlgoGenie,Hyderabad,4-6 years,₹8-12 LPA
+Python Developer,ABC Tech,Bangalore,1-2 years,₹4-6 LPA
+Data Scientist,DataSoft,Mumbai,7-10 years,₹6-10 LPA
+Frontend Developer,CloudWorks,Pune,1-2 years,₹8-12 LPA
+Software Tester,CloudWorks,Mumbai,2-4 years,₹8-12 LPA
+Machine Learning Engineer,Visionary Apps,Chennai,2-4 years,₹20-30 LPA
+Full Stack Developer,TechCorp,Mumbai,4-6 years,₹10-15 LPA
+Backend Engineer,AlgoGenie,Mumbai,0-1 years,₹4-6 LPA
+Project Manager,TechCorp,Remote,4-6 years,₹3-5 LPA
+Software Tester,NextGen AI,Delhi,1-2 years,₹4-6 LPA
+Frontend Developer,ABC Tech,Pune,1-2 years,₹8-12 LPA
+Backend Engineer,TechVerse,Mumbai,4-6 years,₹5-8 LPA
+AI Engineer,Bright Future Pvt Ltd,Pune,1-2 years,₹20-30 LPA
+Java Developer,CloudWorks,Chennai,4-6 years,₹6-10 LPA
+Backend Engineer,CloudWorks,Chennai,2-4 years,₹10-15 LPA
+Business Analyst,Web Solutions,Hyderabad,2-4 years,₹5-8 LPA
+DevOps Engineer,XYZ Analytics,Remote,1-2 years,₹3-5 LPA
+Data Analyst,NeuralNet Systems,Bangalore,7-10 years,₹5-8 LPA
+React Developer,Innova Labs,Remote,7-10 years,₹6-10 LPA
+Data Scientist,Bright Future Pvt Ltd,Mumbai,4-6 years,₹20-30 LPA
+Full Stack Developer,TechVerse,Delhi,3-5 years,₹3-5 LPA
+Frontend Developer,NextGen AI,Chennai,3-5 years,₹3-5 LPA
+Business Analyst,Bright Future Pvt Ltd,Mumbai,5-7 years,₹20-30 LPA
+Data Analyst,TechCorp,Bangalore,0-1 years,₹8-12 LPA
+DevOps Engineer,ABC Tech,Remote,2-4 years,₹15-20 LPA
+Machine Learning Engineer,Bright Future Pvt Ltd,Mumbai,2-4 years,₹4-6 LPA
+Data Scientist,XYZ Analytics,Remote,3-5 years,₹8-12 LPA
+Business Analyst,TechVerse,Delhi,0-1 years,₹4-6 LPA
+DevOps Engineer,NextGen AI,Bangalore,0-1 years,₹4-6 LPA
+Data Analyst,Web Solutions,Chennai,1-2 years,₹3-5 LPA
+Backend Engineer,ABC Tech,Delhi,2-4 years,₹3-5 LPA
+DevOps Engineer,ABC Tech,Bangalore,3-5 years,₹4-6 LPA
+Project Manager,CloudWorks,Bangalore,2-4 years,₹10-15 LPA
+Backend Engineer,ABC Tech,Remote,3-5 years,₹5-8 LPA
+Frontend Developer,NeuralNet Systems,Mumbai,4-6 years,₹5-8 LPA
+Backend Engineer,Visionary Apps,Bangalore,7-10 years,₹3-5 LPA
+Software Tester,Web Solutions,Hyderabad,7-10 years,₹8-12 LPA
+Data Analyst,Innova Labs,Bangalore,2-4 years,₹15-20 LPA
+Data Analyst,Web Solutions,Mumbai,2-4 years,₹4-6 LPA
+Machine Learning Engineer,Web Solutions,Remote,5-7 years,₹6-10 LPA
+AI Engineer,Reactify,Hyderabad,4-6 years,₹15-20 LPA
+Machine Learning Engineer,AlgoGenie,Chennai,1-2 years,₹3-5 LPA
+DevOps Engineer,TechVerse,Pune,7-10 years,₹15-20 LPA
+UI/UX Designer,TechCorp,Delhi,2-4 years,₹5-8 LPA
+AI Engineer,Reactify,Hyderabad,1-2 years,₹20-30 LPA
+Data Analyst,ABC Tech,Pune,2-4 years,₹6-10 LPA
+Data Scientist,CloudWorks,Chennai,0-1 years,₹5-8 LPA
+Cloud Architect,CloudWorks,Delhi,5-7 years,₹5-8 LPA
+Machine Learning Engineer,TechVerse,Pune,4-6 years,₹10-15 LPA
+Software Tester,CloudWorks,Hyderabad,1-2 years,₹5-8 LPA
+Python Developer,CodeCrafters,Remote,2-4 years,₹6-10 LPA
+Python Developer,ABC Tech,Pune,1-2 years,₹20-30 LPA
+AI Engineer,Web Solutions,Mumbai,4-6 years,₹20-30 LPA
+Business Analyst,TechCorp,Mumbai,0-1 years,₹15-20 LPA
+DevOps Engineer,TechCorp,Chennai,5-7 years,₹20-30 LPA
+Software Tester,Web Solutions,Remote,0-1 years,₹6-10 LPA
+Business Analyst,NeuralNet Systems,Hyderabad,3-5 years,₹5-8 LPA
+React Developer,NextGen AI,Chennai,3-5 years,₹15-20 LPA
+Machine Learning Engineer,Visionary Apps,Chennai,7-10 years,₹5-8 LPA
+Java Developer,NextGen AI,Pune,1-2 years,₹3-5 LPA
+Software Tester,AlgoGenie,Mumbai,2-4 years,₹10-15 LPA
+Software Tester,Reactify,Pune,1-2 years,₹6-10 LPA
+Java Developer,ABC Tech,Chennai,1-2 years,₹15-20 LPA
+Cloud Architect,CloudWorks,Bangalore,3-5 years,₹15-20 LPA
+Python Developer,XYZ Analytics,Delhi,7-10 years,₹5-8 LPA
+Data Analyst,CodeCrafters,Bangalore,4-6 years,₹6-10 LPA
+Data Analyst,Reactify,Pune,5-7 years,₹20-30 LPA
+AI Engineer,Visionary Apps,Bangalore,1-2 years,₹5-8 LPA
+Python Developer,TechVerse,Bangalore,7-10 years,₹20-30 LPA
+Data Scientist,NextGen AI,Hyderabad,5-7 years,₹10-15 LPA
+Project Manager,CloudWorks,Bangalore,5-7 years,₹6-10 LPA
+Data Analyst,Visionary Apps,Mumbai,5-7 years,₹20-30 LPA
+Software Tester,Web Solutions,Hyderabad,4-6 years,₹15-20 LPA
+Java Developer,Visionary Apps,Mumbai,2-4 years,₹8-12 LPA
+Data Scientist,CodeCrafters,Pune,1-2 years,₹10-15 LPA
+Python Developer,Bright Future Pvt Ltd,Pune,7-10 years,₹4-6 LPA
+React Developer,TechVerse,Hyderabad,0-1 years,₹8-12 LPA
+Machine Learning Engineer,Innova Labs,Delhi,4-6 years,₹15-20 LPA
+Software Tester,XYZ Analytics,Mumbai,2-4 years,₹20-30 LPA
+React Developer,NeuralNet Systems,Chennai,0-1 years,₹4-6 LPA
+React Developer,AlgoGenie,Bangalore,0-1 years,₹6-10 LPA
+Business Analyst,CloudWorks,Pune,7-10 years,₹6-10 LPA
+Frontend Developer,XYZ Analytics,Mumbai,5-7 years,₹3-5 LPA
+Cloud Architect,CloudWorks,Chennai,3-5 years,₹4-6 LPA
+Java Developer,TechVerse,Pune,5-7 years,₹8-12 LPA
+Software Tester,XYZ Analytics,Remote,7-10 years,₹4-6 LPA
+Backend Engineer,NeuralNet Systems,Hyderabad,5-7 years,₹10-15 LPA
+Python Developer,TechVerse,Hyderabad,1-2 years,₹6-10 LPA
+UI/UX Designer,DataSoft,Remote,5-7 years,₹20-30 LPA
+Cloud Architect,CodeCrafters,Hyderabad,7-10 years,₹6-10 LPA
+DevOps Engineer,NeuralNet Systems,Mumbai,0-1 years,₹4-6 LPA
+Machine Learning Engineer,XYZ Analytics,Delhi,2-4 years,₹8-12 LPA
+AI Engineer,XYZ Analytics,Mumbai,3-5 years,₹3-5 LPA
+Backend Engineer,CodeCrafters,Delhi,7-10 years,₹20-30 LPA
+Project Manager,Bright Future Pvt Ltd,Pune,7-10 years,₹3-5 LPA
+Machine Learning Engineer,Bright Future Pvt Ltd,Mumbai,1-2 years,₹20-30 LPA
+Business Analyst,NeuralNet Systems,Chennai,4-6 years,₹3-5 LPA
+Backend Engineer,ABC Tech,Mumbai,5-7 years,₹3-5 LPA
+Project Manager,ABC Tech,Pune,5-7 years,₹10-15 LPA
+Java Developer,TechCorp,Hyderabad,2-4 years,₹4-6 LPA
+DevOps Engineer,TechCorp,Chennai,5-7 years,₹3-5 LPA
+Software Tester,CodeCrafters,Hyderabad,5-7 years,₹4-6 LPA
+Data Scientist,DataSoft,Hyderabad,4-6 years,₹20-30 LPA
+Software Tester,XYZ Analytics,Bangalore,4-6 years,₹6-10 LPA
+Business Analyst,CloudWorks,Mumbai,7-10 years,₹20-30 LPA
+Software Tester,CodeCrafters,Pune,3-5 years,₹20-30 LPA
+Backend Engineer,NextGen AI,Remote,1-2 years,₹10-15 LPA
+Business Analyst,Visionary Apps,Pune,4-6 years,₹15-20 LPA
+Business Analyst,Bright Future Pvt Ltd,Mumbai,1-2 years,₹20-30 LPA
+Business Analyst,Innova Labs,Hyderabad,3-5 years,₹15-20 LPA
+Software Tester,Visionary Apps,Hyderabad,4-6 years,₹20-30 LPA
+Software Tester,CloudWorks,Delhi,7-10 years,₹15-20 LPA
+React Developer,Bright Future Pvt Ltd,Hyderabad,7-10 years,₹5-8 LPA
+Backend Engineer,Web Solutions,Remote,5-7 years,₹4-6 LPA
+Software Tester,NextGen AI,Mumbai,7-10 years,₹15-20 LPA
+Full Stack Developer,Visionary Apps,Pune,1-2 years,₹5-8 LPA
+Java Developer,NeuralNet Systems,Remote,5-7 years,₹4-6 LPA
+AI Engineer,TechCorp,Delhi,0-1 years,₹10-15 LPA
+Python Developer,Web Solutions,Hyderabad,7-10 years,₹15-20 LPA
+Full Stack Developer,XYZ Analytics,Bangalore,4-6 years,₹5-8 LPA
+React Developer,Innova Labs,Hyderabad,2-4 years,₹5-8 LPA
+UI/UX Designer,Innova Labs,Mumbai,7-10 years,₹3-5 LPA
+UI/UX Designer,NextGen AI,Remote,4-6 years,₹6-10 LPA
+DevOps Engineer,Innova Labs,Bangalore,7-10 years,₹20-30 LPA
+Machine Learning Engineer,NeuralNet Systems,Hyderabad,5-7 years,₹4-6 LPA
+DevOps Engineer,Visionary Apps,Chennai,7-10 years,₹20-30 LPA
+Full Stack Developer,AlgoGenie,Mumbai,5-7 years,₹8-12 LPA
+Data Analyst,NextGen AI,Delhi,0-1 years,₹6-10 LPA
+Java Developer,Reactify,Chennai,0-1 years,₹10-15 LPA
+AI Engineer,NextGen AI,Chennai,5-7 years,₹5-8 LPA
+Java Developer,ABC Tech,Chennai,5-7 years,₹5-8 LPA
+React Developer,Visionary Apps,Delhi,1-2 years,₹6-10 LPA
+Frontend Developer,Innova Labs,Pune,7-10 years,₹4-6 LPA
+Java Developer,CloudWorks,Pune,1-2 years,₹3-5 LPA
+Project Manager,CloudWorks,Mumbai,5-7 years,₹5-8 LPA
+Business Analyst,ABC Tech,Hyderabad,7-10 years,₹20-30 LPA
+Data Scientist,Innova Labs,Chennai,0-1 years,₹3-5 LPA
+DevOps Engineer,Web Solutions,Bangalore,5-7 years,₹6-10 LPA
+Java Developer,NextGen AI,Remote,0-1 years,₹3-5 LPA
+UI/UX Designer,AlgoGenie,Hyderabad,1-2 years,₹6-10 LPA
+Java Developer,ABC Tech,Mumbai,4-6 years,₹4-6 LPA
+React Developer,TechCorp,Bangalore,2-4 years,₹4-6 LPA
+Frontend Developer,CodeCrafters,Delhi,4-6 years,₹8-12 LPA
+Business Analyst,XYZ Analytics,Pune,4-6 years,₹6-10 LPA
+Backend Engineer,NextGen AI,Chennai,1-2 years,₹20-30 LPA
+Machine Learning Engineer,XYZ Analytics,Delhi,1-2 years,₹3-5 LPA
+Machine Learning Engineer,CloudWorks,Delhi,5-7 years,₹6-10 LPA
+Python Developer,CodeCrafters,Hyderabad,7-10 years,₹5-8 LPA
+Machine Learning Engineer,ABC Tech,Delhi,0-1 years,₹4-6 LPA
+Full Stack Developer,Innova Labs,Bangalore,0-1 years,₹3-5 LPA
+Data Scientist,NeuralNet Systems,Pune,2-4 years,₹5-8 LPA
+DevOps Engineer,Bright Future Pvt Ltd,Pune,7-10 years,₹8-12 LPA
+Business Analyst,NeuralNet Systems,Mumbai,0-1 years,₹10-15 LPA
+Business Analyst,CloudWorks,Delhi,2-4 years,₹4-6 LPA
+AI Engineer,Visionary Apps,Pune,7-10 years,₹10-15 LPA
+Python Developer,Bright Future Pvt Ltd,Hyderabad,5-7 years,₹6-10 LPA
+Frontend Developer,DataSoft,Pune,2-4 years,₹4-6 LPA
+Cloud Architect,XYZ Analytics,Bangalore,0-1 years,₹20-30 LPA
+Full Stack Developer,TechVerse,Remote,1-2 years,₹3-5 LPA
+DevOps Engineer,Innova Labs,Delhi,7-10 years,₹15-20 LPA
+UI/UX Designer,XYZ Analytics,Bangalore,0-1 years,₹6-10 LPA
+DevOps Engineer,Reactify,Bangalore,0-1 years,₹8-12 LPA
+Project Manager,NeuralNet Systems,Mumbai,2-4 years,₹4-6 LPA
+Machine Learning Engineer,XYZ Analytics,Remote,2-4 years,₹4-6 LPA
+Java Developer,TechCorp,Hyderabad,5-7 years,₹10-15 LPA
+Full Stack Developer,Innova Labs,Hyderabad,1-2 years,₹8-12 LPA
+React Developer,DataSoft,Bangalore,3-5 years,₹3-5 LPA
+DevOps Engineer,Reactify,Delhi,2-4 years,₹5-8 LPA
+Full Stack Developer,Web Solutions,Delhi,4-6 years,₹15-20 LPA
+Backend Engineer,XYZ Analytics,Hyderabad,0-1 years,₹5-8 LPA
+UI/UX Designer,AlgoGenie,Bangalore,4-6 years,₹4-6 LPA
+Project Manager,TechVerse,Pune,3-5 years,₹6-10 LPA
+Data Scientist,Web Solutions,Mumbai,2-4 years,₹15-20 LPA
+Machine Learning Engineer,ABC Tech,Mumbai,7-10 years,₹20-30 LPA
+Project Manager,TechCorp,Bangalore,3-5 years,₹10-15 LPA
+UI/UX Designer,AlgoGenie,Hyderabad,7-10 years,₹15-20 LPA
+Python Developer,TechCorp,Chennai,0-1 years,₹3-5 LPA
+UI/UX Designer,ABC Tech,Mumbai,4-6 years,₹4-6 LPA
